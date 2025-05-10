@@ -4,7 +4,7 @@ import { getAllBlogPosts } from '@/lib/blog'
 type ChangeFrequency = 'always' | 'hourly' | 'daily' | 'weekly' | 'monthly' | 'yearly' | 'never';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://www.underlayx.com'
+  const baseUrl = 'https://www.pixomni.com'
   const blogPosts = getAllBlogPosts()
   const staticDate = new Date('2024-02-05')
   

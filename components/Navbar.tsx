@@ -212,7 +212,7 @@ export function Navbar() {
             href="/"
             className="text-xl font-bold text-gray-900 dark:text-white hover:opacity-80 transition-opacity"
           >
-            UnderlayX AI
+            Pixomni
           </Link>
 
           {/* Desktop Menu */}
@@ -276,14 +276,14 @@ export function Navbar() {
             </div>
 
             {/* Github link second */}
-            <a
+            {/* <a
               href="https://github.com/nagavineerpasam/UnderlayX"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-gray-900 dark:text-white/80 dark:hover:text-white transition-colors"
             >
               <Github className="w-5 h-5" />
-            </a>
+            </a> */}
 
             {/* Login/User menu third */}
             {isLoading ? (

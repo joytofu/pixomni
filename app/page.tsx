@@ -182,14 +182,13 @@ export default function Home() {
                 className="text-center mb-8"
               >
                 <h1 className="text-4xl md:text-7xl font-bold mb-6 text-gray-900 dark:text-white">
-                  One Powerful Tool for{" "}
+                The All-in-One Free Online Image Editor & {" "}
                   <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-600 to-pink-600 dark:from-purple-400 dark:to-pink-600">
-                    Effortless Image Editing
+                  Background Remover
                   </span>
                 </h1>
                 <p className="text-xl text-gray-700 dark:text-gray-400 max-w-3xl mx-auto">
-                  Everything you need to remove backgrounds, edit photos, and
-                  magically place text and logos behind objects—fast and easy.
+                Effortlessly remove backgrounds, perfect your photos, and magically integrate text or logos behind objects. All the power, none of the hassle.
                 </p>
               </motion.div>
 
@@ -200,11 +199,12 @@ export default function Home() {
                 transition={{ duration: 0.5, delay: 0.2 }}
                 className="text-center mb-16"
               >
+                {/* inline-flex items-center px-8 py-4 bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white rounded-full text-lg font-semibold transition-all duration-300 shadow-lg shadow-purple-500/25 hover:shadow-xl hover:shadow-purple-500/30 */}
                 <Link
                   href="/custom-editor"
-                  className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white rounded-full text-lg font-semibold transition-all duration-300 shadow-lg shadow-purple-500/25 hover:shadow-xl hover:shadow-purple-500/30"
+                  className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-green-700 to-green-900 hover:from-purple-700 hover:to-pink-700 text-white rounded-full text-lg font-semibold transition-all duration-300 shadow-lg shadow-purple-500/25 hover:shadow-xl hover:shadow-purple-500/30"
                 >
-                  Create Now
+                  Start Editing 
                   <ArrowRight className="ml-2 w-5 h-5" />
                 </Link>
               </motion.div>
@@ -354,7 +354,7 @@ export default function Home() {
                   Image Editor
                 </h2>
                 <p className="text-gray-600 dark:text-gray-400 text-lg max-w-2xl mx-auto">
-                  Discover how UnderlayX AI transforms the way you edit images
+                  Discover how Pixomni transforms the way you edit images
                 </p>
               </div>
 
@@ -575,7 +575,7 @@ export default function Home() {
                     Perfect for Every Creator
                   </h3>
                   <p className="text-gray-600 dark:text-gray-400 text-lg max-w-2xl mx-auto">
-                    No matter what you're working on, UnderlayX AI helps you
+                    No matter what you're working on, Pixomni helps you
                     achieve professional results
                   </p>
                 </div>

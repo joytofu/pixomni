@@ -4,7 +4,7 @@ export const blogPosts = {
   'ai-background-customization': {
     slug: 'ai-background-customization',
     title: 'AI-Powered Background Customization and Replacement: A Complete Guide',
-    description: 'Learn how to professionally customize and replace image backgrounds using UnderlayX AI\'s smart tools.',
+    description: 'Learn how to professionally customize and replace image backgrounds using Pixomni\'s smart tools.',
     content: `
       <p>Changing or customizing backgrounds in images can dramatically enhance their appeal, making them more engaging and professional. Whether for marketing, social media, or personal projects, AI-powered background replacement tools make the process effortless and precise.</p>
 
@@ -18,10 +18,10 @@ export const blogPosts = {
         <li>Increased Versatility: Adapt images for different themes, promotions, or presentations.</li>
       </ul>
 
-      <p><strong>How UnderlayX AI Simplifies Background Editing</strong></p>
-      <p>UnderlayX AI offers an easy-to-use solution for background customization and replacement. With its intelligent AI, you can swap, blur, or remove backgrounds with just a few clicks—no need for advanced editing skills.</p>
+      <p><strong>How Pixomni Simplifies Background Editing</strong></p>
+      <p>Pixomni offers an easy-to-use solution for background customization and replacement. With its intelligent AI, you can swap, blur, or remove backgrounds with just a few clicks—no need for advanced editing skills.</p>
 
-      <p><strong>Key Features of UnderlayX AI's Background Editing Tool</strong></p>
+      <p><strong>Key Features of Pixomni's Background Editing Tool</strong></p>
       <ul>
         <li>Automatic Background Removal: Instantly extract subjects without manual selection.</li>
         <li>Custom Background Options: Replace backgrounds with solid colors, gradients, or custom images.</li>
@@ -30,10 +30,10 @@ export const blogPosts = {
         <li>High-Resolution Output: Maintain professional image quality.</li>
       </ul>
 
-      <p><strong>How to Customize Backgrounds with UnderlayX AI</strong></p>
+      <p><strong>How to Customize Backgrounds with Pixomni</strong></p>
       <p>Step 1: Upload Your Image</p>
       <ul>
-        <li>Visit UnderlayX AI and upload the image where you want to modify the background.</li>
+        <li>Visit Pixomni and upload the image where you want to modify the background.</li>
       </ul>
       <p>Step 2: Remove the Background</p>
       <ul>
@@ -75,7 +75,7 @@ export const blogPosts = {
       </ul>
 
       <p><strong>Conclusion</strong></p>
-      <p>AI-powered background customization and replacement tools like UnderlayX AI make professional-level editing accessible to everyone. Whether you're an entrepreneur, content creator, or social media influencer, these tools enable you to enhance images effortlessly.</p>
+      <p>AI-powered background customization and replacement tools like Pixomni make professional-level editing accessible to everyone. Whether you're an entrepreneur, content creator, or social media influencer, these tools enable you to enhance images effortlessly.</p>
     `,
     date: '2024-02-01',
     category: 'Tutorial',
@@ -84,7 +84,7 @@ export const blogPosts = {
   'smart-image-overlay-guide': {
     slug: 'smart-image-overlay-guide',
     title: 'Smart Image Overlay and Blending with AI: A Complete Guide',
-    description: 'Master the art of seamless image blending and overlays using UnderlayX AI\'s smart tools.',
+    description: 'Master the art of seamless image blending and overlays using Pixomni\'s smart tools.',
     content: `
       <p>Blending images seamlessly or overlaying objects onto another photo can transform visuals, making them more dynamic and creative. Whether you're a designer, marketer, or social media enthusiast, AI-powered smart overlays provide a fast and effortless way to achieve professional results.</p>
 
@@ -98,10 +98,10 @@ export const blogPosts = {
         <li>Background Adaptation: Adjust lighting, shadows, and colors to blend elements perfectly.</li>
       </ul>
 
-      <p><strong>How UnderlayX AI Makes Image Overlay and Blending Easy</strong></p>
-      <p>UnderlayX AI offers a smart and intuitive way to blend images and overlay objects without requiring professional design skills. With AI-powered processing, users can seamlessly integrate elements into any photo with precision.</p>
+      <p><strong>How Pixomni Makes Image Overlay and Blending Easy</strong></p>
+      <p>Pixomni offers a smart and intuitive way to blend images and overlay objects without requiring professional design skills. With AI-powered processing, users can seamlessly integrate elements into any photo with precision.</p>
 
-      <p><strong>Key Features of UnderlayX AI's Smart Overlay Tool</strong></p>
+      <p><strong>Key Features of Pixomni's Smart Overlay Tool</strong></p>
       <ul>
         <li>Automatic Background Removal: AI detects and removes backgrounds instantly.</li>
         <li>Easy Object Placement: Drag and drop elements to overlay them onto another image.</li>
@@ -113,7 +113,7 @@ export const blogPosts = {
       <p><strong>How to Use Smart Image Overlay and Blending</strong></p>
       <p>Step 1: Upload Your Images</p>
       <ul>
-        <li>Visit UnderlayX AI and upload the primary image and the overlay image you want to blend.</li>
+        <li>Visit Pixomni and upload the primary image and the overlay image you want to blend.</li>
       </ul>
       <p>Step 2: Remove Background (If Needed)</p>
       <ul>
@@ -155,7 +155,7 @@ export const blogPosts = {
       </ul>
 
       <p><strong>Conclusion</strong></p>
-      <p>Smart image overlay and blending with AI is a game-changer for effortless, professional-looking edits. UnderlayX AI makes it easier than ever to merge images seamlessly, create stunning compositions, and enhance storytelling with minimal effort.</p>
+      <p>Smart image overlay and blending with AI is a game-changer for effortless, professional-looking edits. Pixomni makes it easier than ever to merge images seamlessly, create stunning compositions, and enhance storytelling with minimal effort.</p>
     `,
     date: '2024-02-01',
     category: 'Tutorial',
@@ -164,7 +164,7 @@ export const blogPosts = {
   'image-outline-guide': {
     slug: 'image-outline-guide',
     title: 'How to Add Outlines Around Images or Objects Using AI: A Complete Guide',
-    description: 'Learn how to enhance your images by adding professional outlines using UnderlayX AI\'s intelligent tools.',
+    description: 'Learn how to enhance your images by adding professional outlines using Pixomni\'s intelligent tools.',
     content: `
       <p>Adding an outline around images or objects can significantly enhance visual appeal, make elements stand out, and create stunning designs. Whether you're a designer, photographer, or content creator, outlining images can improve aesthetics and draw attention to key elements.</p>
 
@@ -178,10 +178,10 @@ export const blogPosts = {
         <li>Social Media Engagement: Makes posts and graphics more eye-catching.</li>
       </ul>
 
-      <p><strong>How UnderlayX AI Makes It Easy</strong></p>
-      <p>UnderlayX AI simplifies the process of adding outlines around objects and images with precision and ease. No need for complex editing software—just upload your image and let AI do the work.</p>
+      <p><strong>How Pixomni Makes It Easy</strong></p>
+      <p>Pixomni simplifies the process of adding outlines around objects and images with precision and ease. No need for complex editing software—just upload your image and let AI do the work.</p>
 
-      <p><strong>Key Features of UnderlayX AI's Outline Tool</strong></p>
+      <p><strong>Key Features of Pixomni's Outline Tool</strong></p>
       <ul>
         <li>Automatic Object Detection: AI detects objects and applies outlines effortlessly.</li>
         <li>Customizable Outlines: Adjust thickness, color, and opacity to suit your design.</li>
@@ -190,10 +190,10 @@ export const blogPosts = {
         <li>No Design Skills Needed: A user-friendly interface for all skill levels.</li>
       </ul>
 
-      <p><strong>How to Add Outlines Around Images with UnderlayX AI</strong></p>
+      <p><strong>How to Add Outlines Around Images with Pixomni</strong></p>
       <p>Step 1: Upload Your Image</p>
       <ul>
-        <li>Visit UnderlayX AI and upload the image you want to edit.</li>
+        <li>Visit Pixomni and upload the image you want to edit.</li>
       </ul>
       <p>Step 2: Select the Object</p>
       <ul>
@@ -234,7 +234,7 @@ export const blogPosts = {
       </ul>
 
       <p><strong>Conclusion</strong></p>
-      <p>Adding outlines to images is an effective way to enhance visual appeal and professionalism. With UnderlayX AI, you can easily create high-quality outlined images without complex editing tools. Whether for business, social media, or creative projects, this tool helps you achieve stunning results effortlessly.</p>
+      <p>Adding outlines to images is an effective way to enhance visual appeal and professionalism. With Pixomni, you can easily create high-quality outlined images without complex editing tools. Whether for business, social media, or creative projects, this tool helps you achieve stunning results effortlessly.</p>
     `,
     date: '2024-02-01',
     category: 'Tutorial',
@@ -243,10 +243,10 @@ export const blogPosts = {
   'shapes-behind-images': {
     slug: 'shapes-behind-images',
     title: 'How to Place Shapes Behind Your Image\'s Subject',
-    description: 'Learn how to enhance your photos with creative shapes using UnderlayX AI\'s intuitive tools.',
+    description: 'Learn how to enhance your photos with creative shapes using Pixomni\'s intuitive tools.',
     content: `
       <p>Want to make your photos pop with creative shapes?</p>
-      <p>With UnderlayX AI, adding shapes to your images is as easy as it gets. Whether you're designing social media posts, creating professional graphics, or just exploring your creativity, our shape tool lets you add a unique flair to your photos in seconds.</p>
+      <p>With Pixomni, adding shapes to your images is as easy as it gets. Whether you're designing social media posts, creating professional graphics, or just exploring your creativity, our shape tool lets you add a unique flair to your photos in seconds.</p>
       <p>Here's how it works:</p>
       <ul>
         <li>Upload your image: Start by selecting the photo you want to enhance.</li>
@@ -255,13 +255,13 @@ export const blogPosts = {
         <li>Position with precision: Drag and drop the shape anywhere on your image, or layer it to create depth and perspective.</li>
         <li>Refine your masterpiece: Use our smart tools to ensure the shape seamlessly integrates into your photo.</li>
       </ul>
-      <p>With UnderlayX AI, you can:</p>
+      <p>With Pixomni, you can:</p>
       <ul>
         <li>Experiment with different shapes to create standout visuals.</li>
         <li>Combine shapes with text for even more impact.</li>
         <li>Save your creations in high quality, ready to download and share.</li>
       </ul>
-      <p>Whether you're highlighting important details, framing key elements, or adding a playful touch to your photos, UnderlayX AI makes it simple to bring your ideas to life.</p>
+      <p>Whether you're highlighting important details, framing key elements, or adding a playful touch to your photos, Pixomni makes it simple to bring your ideas to life.</p>
     `,
     date: '2025-01-03',
     category: 'Tutorial',
@@ -270,18 +270,18 @@ export const blogPosts = {
   'text-behind-images': {
     slug: 'text-behind-images',
     title: 'How to Add Text Behind Your Image\'s Subject',
-    description: 'Learn how to create stunning designs by placing text behind image subjects with UnderlayX AI.',
+    description: 'Learn how to create stunning designs by placing text behind image subjects with Pixomni.',
     content: `
       <p>Ever wanted to create the stunning effect of text appearing seamlessly behind the subject in your photos?</p>
-      <p>With UnderlayX AI, it's not just possible—it's effortless. Upload your image, type your desired text, and watch the tool work its magic as it intelligently places the text behind the main subject. It's perfect for crafting eye-catching social media posts, unique presentations, or adding a creative touch to personal projects.</p>
-      <p>But we don't stop there. UnderlayX AI also allows you to:</p>
+      <p>With Pixomni, it's not just possible—it's effortless. Upload your image, type your desired text, and watch the tool work its magic as it intelligently places the text behind the main subject. It's perfect for crafting eye-catching social media posts, unique presentations, or adding a creative touch to personal projects.</p>
+      <p>But we don't stop there. Pixomni also allows you to:</p>
       <ul>
       <li>Customize your text with various fonts, colors, and styles.</li>
       <li>Add shapes and elements for an extra layer of visual appeal.</li>
       <li>Preview and refine your designs instantly.</li>
       <li>Download high-quality images ready to share or use anywhere.</li>
       </ul>
-      <p>Whether you're a designer, a content creator, or just someone who loves unique visuals, UnderlayX AI empowers you to create like never before. It's not just a tool; it's your gateway to creativity.</p>
+      <p>Whether you're a designer, a content creator, or just someone who loves unique visuals, Pixomni empowers you to create like never before. It's not just a tool; it's your gateway to creativity.</p>
     `,
     date: '2025-01-03',
     category: 'Tutorial',
@@ -292,7 +292,7 @@ export const blogPosts = {
     title: 'Creating Stunning Glowing Text Effects',
     description: 'Master the art of creating eye-catching glowing text effects for your designs.',
     content: `
-      <p>Adding a glowing effect to text can make your designs pop! UnderlayX AI lets you customize text styles, including adding vibrant color effects and shadows. Pair this with the behind-the-subject placement, and you'll have a design that stands out in any crowd. Try it now and elevate your creativity.</p>
+      <p>Adding a glowing effect to text can make your designs pop! Pixomni lets you customize text styles, including adding vibrant color effects and shadows. Pair this with the behind-the-subject placement, and you'll have a design that stands out in any crowd. Try it now and elevate your creativity.</p>
     `,
     date: '2025-01-03',
     category: 'Design Tips',
@@ -303,7 +303,7 @@ export const blogPosts = {
     title: 'Shapes That Transform Your Designs',
     description: 'Learn how to use geometric patterns and shapes to enhance your images and create professional-looking designs.',
     content: `
-      <p>Shapes aren't just for fun—they're a powerful design element. Use UnderlayX AI to add geometric patterns, abstract symbols, or even subtle accents behind your subject. Customize the size, color, and position for endless possibilities. Your photos will look more professional and polished in just minutes.</p>
+      <p>Shapes aren't just for fun—they're a powerful design element. Use Pixomni to add geometric patterns, abstract symbols, or even subtle accents behind your subject. Customize the size, color, and position for endless possibilities. Your photos will look more professional and polished in just minutes.</p>
     `,
     date: '2025-01-03',
     category: 'Design Tips',
@@ -315,7 +315,7 @@ export const blogPosts = {
     title: 'Why Minimalism Works in Photo Design',
     description: 'Discover how minimal design elements can create maximum impact in your photos.',
     content: `
-      <p>Sometimes, less is more. UnderlayX AI empowers you to create minimalist designs by placing subtle text or shapes behind your subject. It's a simple touch that can make a big impact. Minimalist designs are not only trendy but also versatile across platforms and purposes.</p>
+      <p>Sometimes, less is more. Pixomni empowers you to create minimalist designs by placing subtle text or shapes behind your subject. It's a simple touch that can make a big impact. Minimalist designs are not only trendy but also versatile across platforms and purposes.</p>
     `,
     date: '2025-01-03',
     category: 'Design Theory',
@@ -327,7 +327,7 @@ export const blogPosts = {
     title: 'Transforming Photos with Layered Effects',
     description: 'Master the art of creating depth and sophistication using layered effects in your images.',
     content: `
-      <p>Layered effects, like text or shapes behind subjects, add depth and sophistication to any image. With UnderlayX AI, achieving this effect is easy. Just upload your photo, choose your design elements, and let the tool handle the rest. Perfect for creatives, marketers, and anyone who loves impactful visuals.</p>
+      <p>Layered effects, like text or shapes behind subjects, add depth and sophistication to any image. With Pixomni, achieving this effect is easy. Just upload your photo, choose your design elements, and let the tool handle the rest. Perfect for creatives, marketers, and anyone who loves impactful visuals.</p>
     `,
     date: '2025-01-03',
     category: 'Tutorial',
@@ -337,7 +337,7 @@ export const blogPosts = {
   'quick-photo-design-tips': {
     slug: 'quick-photo-design-tips',
     title: 'Quick Tips for Better Photo Designs',
-    description: 'Essential tips and tricks to enhance your photo designs using UnderlayX AI.',
+    description: 'Essential tips and tricks to enhance your photo designs using Pixomni.',
     content: `
       <article>
         <p>Creating stunning designs doesn't have to be complicated. Here are some essential tips:</p><br>
@@ -347,7 +347,7 @@ export const blogPosts = {
           <li>Add glowing effects to highlight important details</li>
           <li>Experiment with color contrasts for text and shapes</li>
         </ul>
-        <p>With UnderlayX AI, these design tips are easy to apply!</p>
+        <p>With Pixomni, these design tips are easy to apply!</p>
       </article>
     `,
     date: '2025-01-03',
@@ -360,7 +360,7 @@ export const blogPosts = {
     title: 'What Makes Text Behind Subject So Popular?',
     description: 'Explore why the text-behind-subject effect has become a trending design choice in social media.',
     content: `
-      <p>The text-behind-subject effect creates a seamless and professional look that's trending across social media. This effect draws attention to your subject while adding context or a creative twist. UnderlayX AI makes this trend accessible for everyone—no advanced editing skills required!</p>
+      <p>The text-behind-subject effect creates a seamless and professional look that's trending across social media. This effect draws attention to your subject while adding context or a creative twist. Pixomni makes this trend accessible for everyone—no advanced editing skills required!</p>
     `,
     date: '2025-01-03',
     category: 'Trends',
@@ -370,16 +370,16 @@ export const blogPosts = {
   'remove-background-guide': {
     slug: 'remove-background-guide',
     title: 'How to Remove Backgrounds from Images with Precision',
-    description: 'Learn how to effortlessly remove image backgrounds for clean, professional results with UnderlayX AI.',
+    description: 'Learn how to effortlessly remove image backgrounds for clean, professional results with Pixomni.',
     content: `
-      <p>Removing backgrounds from images is no longer a task reserved for professionals. With UnderlayX AI, you can quickly isolate your subject, creating stunning visuals perfect for e-commerce, presentations, or social media.</p>
-      <p>Why choose UnderlayX AI?</p>
+      <p>Removing backgrounds from images is no longer a task reserved for professionals. With Pixomni, you can quickly isolate your subject, creating stunning visuals perfect for e-commerce, presentations, or social media.</p>
+      <p>Why choose Pixomni?</p>
       <ul>
         <li>AI-powered precision for clean edges.</li>
         <li>Retain high image quality after removal.</li>
         <li>Perfect for creating transparent PNGs or placing your subject on a new background.</li>
       </ul>
-      <p>Whether you're a business owner, content creator, or hobbyist, UnderlayX AI gives you the tools to elevate your designs effortlessly.</p>
+      <p>Whether you're a business owner, content creator, or hobbyist, Pixomni gives you the tools to elevate your designs effortlessly.</p>
     `,
     date: '2025-01-11',
     category: 'Tutorial',
@@ -388,10 +388,10 @@ export const blogPosts = {
 
   'change-backgrounds-pro': {
     slug: 'change-backgrounds-pro',
-    title: 'Change Backgrounds Like a Pro with UnderlayX AI',
+    title: 'Change Backgrounds Like a Pro with Pixomni',
     description: 'Transform your images by swapping backgrounds in just a few clicks.',
     content: `
-      <p>Want to place your image in a dreamy landscape or a minimalist studio setting? With UnderlayX AI, you can replace your image background with ease.</p>
+      <p>Want to place your image in a dreamy landscape or a minimalist studio setting? With Pixomni, you can replace your image background with ease.</p>
       <p>Features you'll love:</p>
       <ul>
         <li>Wide range of preset backgrounds to choose from.</li>
@@ -408,9 +408,9 @@ export const blogPosts = {
   'clone-transform-objects': {
     slug: 'clone-transform-objects',
     title: 'Master AI Image Cloning: Duplicate & Transform Objects Effortlessly',
-    description: 'Discover the power of AI in cloning and duplicating images. Learn how to create multiple images, replicate objects, and enhance your designs with UnderlayX AI.',
+    description: 'Discover the power of AI in cloning and duplicating images. Learn how to create multiple images, replicate objects, and enhance your designs with Pixomni.',
     content: `
-      <p>In the world of digital design, the ability to clone and duplicate images or objects can significantly enhance creativity and efficiency. With UnderlayX AI, this process becomes seamless and intuitive, allowing you to focus on crafting stunning visuals.</p>
+      <p>In the world of digital design, the ability to clone and duplicate images or objects can significantly enhance creativity and efficiency. With Pixomni, this process becomes seamless and intuitive, allowing you to focus on crafting stunning visuals.</p>
 
       <h2>Why Clone and Duplicate Images?</h2>
       <p>Cloning and duplicating images or objects offer numerous advantages:</p>
@@ -421,10 +421,10 @@ export const blogPosts = {
         <li><strong>Cost-Effectiveness:</strong> Reduce the need for additional resources or stock images.</li>
       </ul>
 
-      <h2>How UnderlayX AI Simplifies Cloning</h2>
-      <p>UnderlayX AI provides a user-friendly platform for cloning and duplicating objects with precision. Its AI-driven tools ensure that every clone is perfect, saving you time and effort.</p>
+      <h2>How Pixomni Simplifies Cloning</h2>
+      <p>Pixomni provides a user-friendly platform for cloning and duplicating objects with precision. Its AI-driven tools ensure that every clone is perfect, saving you time and effort.</p>
 
-      <h3>Key Features of UnderlayX AI's Cloning Tool</h3>
+      <h3>Key Features of Pixomni's Cloning Tool</h3>
       <ul>
         <li><strong>Intuitive Interface:</strong> Easily select and duplicate objects within your images.</li>
         <li><strong>Advanced Editing Options:</strong> Adjust size, rotation, and position of cloned objects.</li>
@@ -432,7 +432,7 @@ export const blogPosts = {
         <li><strong>Seamless Integration:</strong> Blend cloned objects naturally into your designs.</li>
       </ul>
 
-      <h2>Step-by-Step Guide to Cloning with UnderlayX AI</h2>
+      <h2>Step-by-Step Guide to Cloning with Pixomni</h2>
       <p>Follow these simple steps to clone and duplicate objects in your images:</p>
       <ol>
         <li><strong>Upload Your Image:</strong> Start by uploading the image you wish to edit.</li>
@@ -453,7 +453,7 @@ export const blogPosts = {
       <h2>Future Trends in AI Image Cloning</h2>
       <p>As AI technology advances, expect more sophisticated cloning capabilities, including real-time editing and enhanced integration with other design tools.</p>
 
-      <p>With UnderlayX AI, mastering the art of image cloning is within your reach. Whether you're a designer, marketer, or hobbyist, our tools empower you to create like never before.</p>
+      <p>With Pixomni, mastering the art of image cloning is within your reach. Whether you're a designer, marketer, or hobbyist, our tools empower you to create like never before.</p>
     `,
     date: '2025-01-11',
     category: 'Tutorial',
@@ -462,9 +462,9 @@ export const blogPosts = {
   'professional-background-removal': {
     slug: 'professional-background-removal',
     title: 'Professional Background Removal in Seconds: The Ultimate Guide',
-    description: 'Learn how to remove backgrounds from any image with pixel-perfect precision using UnderlayX AI\'s powerful tools.',
+    description: 'Learn how to remove backgrounds from any image with pixel-perfect precision using Pixomni\'s powerful tools.',
     content: `
-      <p>Background removal has revolutionized digital image editing, and with UnderlayX AI, achieving professional results has never been easier or more accessible.</p>
+      <p>Background removal has revolutionized digital image editing, and with Pixomni, achieving professional results has never been easier or more accessible.</p>
 
       <h2>Why Background Removal Matters</h2>
       <p>Removing backgrounds from images is a fundamental technique that opens up countless creative possibilities:</p>
@@ -476,8 +476,8 @@ export const blogPosts = {
         <li><strong>Improved Marketing Materials:</strong> Elevate the quality of all your promotional content.</li>
       </ul>
 
-      <h2>How UnderlayX AI Revolutionizes Background Removal</h2>
-      <p>UnderlayX AI utilizes cutting-edge artificial intelligence to detect and separate subjects from backgrounds with unprecedented accuracy:</p>
+      <h2>How Pixomni Revolutionizes Background Removal</h2>
+      <p>Pixomni utilizes cutting-edge artificial intelligence to detect and separate subjects from backgrounds with unprecedented accuracy:</p>
       <ul>
         <li><strong>Advanced Edge Detection:</strong> Precisely identifies even the most complex edges including hair and transparent objects.</li>
         <li><strong>One-Click Operation:</strong> Remove backgrounds instantly with a single click—no manual masking required.</li>
@@ -485,10 +485,10 @@ export const blogPosts = {
         <li><strong>Perfect Results Every Time:</strong> Achieve studio-quality cutouts regardless of your technical skill level.</li>
       </ul>
 
-      <h2>Step-by-Step Guide to Background Removal with UnderlayX AI</h2>
+      <h2>Step-by-Step Guide to Background Removal with Pixomni</h2>
       <ol>
         <li><strong>Upload Your Image:</strong> Select and upload the image you want to process.</li>
-        <li><strong>Automatic Detection:</strong> Watch as UnderlayX AI instantly identifies your subject.</li>
+        <li><strong>Automatic Detection:</strong> Watch as Pixomni instantly identifies your subject.</li>
         <li><strong>Fine-Tune (If Needed):</strong> Use intuitive tools to refine complex areas like hair or transparent edges.</li>
         <li><strong>Preview and Adjust:</strong> Review the result in real-time against different backgrounds.</li>
         <li><strong>Download:</strong> Save your image with a transparent background or place it on a new backdrop.</li>
@@ -511,7 +511,7 @@ export const blogPosts = {
         <li><strong>Presentations:</strong> Develop professional slides with clean, focused visuals.</li>
       </ul>
 
-      <p>With UnderlayX AI, background removal is no longer a time-consuming chore requiring specialized skills. Experience the power of professional-grade background removal that's accessible to everyone, regardless of design experience.</p>
+      <p>With Pixomni, background removal is no longer a time-consuming chore requiring specialized skills. Experience the power of professional-grade background removal that's accessible to everyone, regardless of design experience.</p>
     `,
     date: '2025-03-15',
     category: 'Tutorial',
@@ -520,9 +520,9 @@ export const blogPosts = {
   'image-overlay-mastery': {
     slug: 'image-overlay-mastery',
     title: 'Image Overlay Mastery: Create Stunning Visual Compositions',
-    description: 'Master the art of image overlay techniques to create professional, eye-catching visual compositions using UnderlayX AI.',
+    description: 'Master the art of image overlay techniques to create professional, eye-catching visual compositions using Pixomni.',
     content: `
-      <p>Image overlays transform ordinary photos into extraordinary visual compositions. UnderlayX AI makes this powerful technique accessible to everyone, regardless of design experience.</p>
+      <p>Image overlays transform ordinary photos into extraordinary visual compositions. Pixomni makes this powerful technique accessible to everyone, regardless of design experience.</p>
 
       <h2>The Power of Image Overlay Techniques</h2>
       <p>Image overlay is the art of combining multiple visual elements into a cohesive composition. When done correctly, it creates stunning visual effects that:</p>
@@ -534,8 +534,8 @@ export const blogPosts = {
         <li><strong>Maximize Visual Impact:</strong> Create eye-catching compositions that demand attention.</li>
       </ul>
 
-      <h2>UnderlayX AI's Revolutionary Overlay Technology</h2>
-      <p>Traditional image overlay techniques require complex software and years of experience. UnderlayX AI changes everything with:</p>
+      <h2>Pixomni's Revolutionary Overlay Technology</h2>
+      <p>Traditional image overlay techniques require complex software and years of experience. Pixomni changes everything with:</p>
       <ul>
         <li><strong>Intelligent Layer Detection:</strong> Automatically identifies and separates image elements.</li>
         <li><strong>Smart Blending Algorithms:</strong> Creates natural transitions between overlay elements.</li>
@@ -572,7 +572,7 @@ export const blogPosts = {
         <li><strong>Tell a Story:</strong> Ensure your overlay elements complement rather than compete with each other.</li>
       </ul>
 
-      <p>With UnderlayX AI's intuitive overlay tools, you can create professional-quality visual compositions that would previously have required hours of work and specialized expertise. Start transforming your images today!</p>
+      <p>With Pixomni's intuitive overlay tools, you can create professional-quality visual compositions that would previously have required hours of work and specialized expertise. Start transforming your images today!</p>
     `,
     date: '2025-03-18',
     category: 'Tutorial',
@@ -581,9 +581,9 @@ export const blogPosts = {
   'background-change-guide': {
     slug: 'background-change-guide',
     title: 'The Ultimate Guide to Changing Image Backgrounds Like a Pro',
-    description: 'Transform your photos by replacing backgrounds seamlessly using UnderlayX AI\'s powerful background changing tools.',
+    description: 'Transform your photos by replacing backgrounds seamlessly using Pixomni\'s powerful background changing tools.',
     content: `
-      <p>Changing an image's background can completely transform its impact and context. UnderlayX AI makes this powerful technique accessible to everyone with results that look professionally edited.</p>
+      <p>Changing an image's background can completely transform its impact and context. Pixomni makes this powerful technique accessible to everyone with results that look professionally edited.</p>
 
       <h2>Why Change Image Backgrounds?</h2>
       <p>Background replacement offers endless creative possibilities and practical benefits:</p>
@@ -595,8 +595,8 @@ export const blogPosts = {
         <li><strong>Problem Solving:</strong> Fix issues with original backgrounds quickly and easily.</li>
       </ul>
 
-      <h2>How UnderlayX AI Makes Background Changing Effortless</h2>
-      <p>UnderlayX AI leverages advanced machine learning algorithms to deliver flawless background changes:</p>
+      <h2>How Pixomni Makes Background Changing Effortless</h2>
+      <p>Pixomni leverages advanced machine learning algorithms to deliver flawless background changes:</p>
       <ul>
         <li><strong>Precise Subject Detection:</strong> Automatically identifies subjects with pixel-perfect accuracy.</li>
         <li><strong>Smart Edge Refinement:</strong> Handles complex edges including hair and transparent objects.</li>
@@ -608,7 +608,7 @@ export const blogPosts = {
       <h2>Step-by-Step Background Changing Process</h2>
       <ol>
         <li><strong>Upload Your Image:</strong> Select the image containing the subject you want to preserve.</li>
-        <li><strong>Automatic Subject Detection:</strong> UnderlayX AI instantly identifies and isolates your subject.</li>
+        <li><strong>Automatic Subject Detection:</strong> Pixomni instantly identifies and isolates your subject.</li>
         <li><strong>Select Your New Background:</strong> Choose from the background library or upload a custom image.</li>
         <li><strong>Fine-tune the Result:</strong> Adjust positioning, lighting, and blending for perfect integration.</li>
         <li><strong>Add Finishing Touches:</strong> Apply optional enhancements like shadows or reflections.</li>
@@ -633,7 +633,7 @@ export const blogPosts = {
         <li><strong>Maintain Color Harmony:</strong> Adjust color grading to ensure subject and background look cohesive.</li>
       </ul>
 
-      <p>With UnderlayX AI, you can transform ordinary photos into extraordinary images by changing backgrounds in just a few clicks. No special skills required—just your creativity and our powerful AI tools.</p>
+      <p>With Pixomni, you can transform ordinary photos into extraordinary images by changing backgrounds in just a few clicks. No special skills required—just your creativity and our powerful AI tools.</p>
     `,
     date: '2025-03-20',
     category: 'Tutorial',
@@ -642,9 +642,9 @@ export const blogPosts = {
   'youtube-thumbnail-guide': {
     slug: 'youtube-thumbnail-guide',
     title: 'How to Create Click-Worthy YouTube Thumbnails That Drive Views',
-    description: 'Master the art of creating eye-catching YouTube thumbnails that increase click-through rates and grow your channel using UnderlayX AI.',
+    description: 'Master the art of creating eye-catching YouTube thumbnails that increase click-through rates and grow your channel using Pixomni.',
     content: `
-      <p>In the competitive world of YouTube, your thumbnail is often the deciding factor in whether viewers click on your video. UnderlayX AI gives you the power to create professional, attention-grabbing thumbnails that stand out in search results and recommended feeds.</p>
+      <p>In the competitive world of YouTube, your thumbnail is often the deciding factor in whether viewers click on your video. Pixomni gives you the power to create professional, attention-grabbing thumbnails that stand out in search results and recommended feeds.</p>
 
       <h2>Why YouTube Thumbnails Are Critical for Success</h2>
       <p>Thumbnails are your video's first impression and play a crucial role in your channel's performance:</p>
@@ -656,8 +656,8 @@ export const blogPosts = {
         <li><strong>Better Overall Channel Performance:</strong> Higher CTR signals quality to the YouTube algorithm.</li>
       </ul>
 
-      <h2>How UnderlayX AI Transforms Thumbnail Creation</h2>
-      <p>Creating professional thumbnails used to require advanced design skills. UnderlayX AI changes everything:</p>
+      <h2>How Pixomni Transforms Thumbnail Creation</h2>
+      <p>Creating professional thumbnails used to require advanced design skills. Pixomni changes everything:</p>
       <ul>
         <li><strong>AI-Powered Subject Isolation:</strong> Extract people and objects from any background with one click.</li>
         <li><strong>Thumbnail Templates:</strong> Start with optimized layouts proven to drive clicks.</li>
@@ -669,7 +669,7 @@ export const blogPosts = {
       <h2>Step-by-Step Guide to Creating Perfect YouTube Thumbnails</h2>
       <ol>
         <li><strong>Choose Your Base Image:</strong> Select a high-quality frame from your video or upload a custom photo.</li>
-        <li><strong>Isolate Your Subject:</strong> Use UnderlayX AI to remove or replace the background.</li>
+        <li><strong>Isolate Your Subject:</strong> Use Pixomni to remove or replace the background.</li>
         <li><strong>Select a Template or Background:</strong> Choose from optimized layouts or create your own design.</li>
         <li><strong>Add Compelling Text:</strong> Include 3-5 words that create curiosity or highlight value.</li>
         <li><strong>Enhance with Graphics:</strong> Add arrows, circles, or other elements to draw attention.</li>
@@ -696,7 +696,7 @@ export const blogPosts = {
         <li><strong>Watch Time Correlation:</strong> Track which thumbnail styles lead to higher retention.</li>
       </ul>
 
-      <p>With UnderlayX AI, creating professional YouTube thumbnails that drive views becomes quick and effortless. Whether you're just starting your channel or looking to optimize an established one, our tools give you the edge you need in today's competitive landscape.</p>
+      <p>With Pixomni, creating professional YouTube thumbnails that drive views becomes quick and effortless. Whether you're just starting your channel or looking to optimize an established one, our tools give you the edge you need in today's competitive landscape.</p>
     `,
     date: '2025-03-25',
     category: 'Tutorial',
@@ -705,9 +705,9 @@ export const blogPosts = {
   'drawing-on-images': {
     slug: 'drawing-on-images',
     title: 'The Complete Guide to Drawing on Images: Adding Professional Annotations and Artwork',
-    description: 'Learn how to enhance your photos with custom drawings, annotations, and artistic elements using UnderlayX AI\'s intuitive drawing tools.',
+    description: 'Learn how to enhance your photos with custom drawings, annotations, and artistic elements using Pixomni\'s intuitive drawing tools.',
     content: `
-      <p>Adding hand-drawn elements to images opens up a world of creative possibilities—from simple annotations to artistic enhancements. UnderlayX AI's drawing tools make this process intuitive and professional, regardless of your artistic ability.</p>
+      <p>Adding hand-drawn elements to images opens up a world of creative possibilities—from simple annotations to artistic enhancements. Pixomni's drawing tools make this process intuitive and professional, regardless of your artistic ability.</p>
 
       <h2>Why Drawing on Images is a Powerful Technique</h2>
       <p>Adding custom drawn elements to photos serves many valuable purposes:</p>
@@ -719,8 +719,8 @@ export const blogPosts = {
         <li><strong>Engagement Boost:</strong> Create more interesting and shareable social media content.</li>
       </ul>
 
-      <h2>UnderlayX AI's Drawing Tools: Power Meets Simplicity</h2>
-      <p>Drawing on images has traditionally required complex software and artistic skill. UnderlayX AI changes this paradigm:</p>
+      <h2>Pixomni's Drawing Tools: Power Meets Simplicity</h2>
+      <p>Drawing on images has traditionally required complex software and artistic skill. Pixomni changes this paradigm:</p>
       <ul>
         <li><strong>Intelligent Stroke Smoothing:</strong> Creates professional-looking lines even with shaky hands.</li>
         <li><strong>Pressure Sensitivity:</strong> Mimics natural drawing tools with variable line weight.</li>
@@ -776,7 +776,7 @@ export const blogPosts = {
         <li><strong>Create Depth:</strong> Use shading and perspective in drawings for a three-dimensional effect.</li>
       </ul>
 
-      <p>With UnderlayX AI's intuitive drawing tools, anyone can add professional annotations and artistic elements to images. Whether you're creating educational content, enhancing marketing materials, or expressing your creativity, these tools open up limitless possibilities for visual communication.</p>
+      <p>With Pixomni's intuitive drawing tools, anyone can add professional annotations and artistic elements to images. Whether you're creating educational content, enhancing marketing materials, or expressing your creativity, these tools open up limitless possibilities for visual communication.</p>
     `,
     date: '2025-03-28',
     category: 'Tutorial',

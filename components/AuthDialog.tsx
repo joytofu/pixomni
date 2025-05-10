@@ -31,7 +31,7 @@ export function AuthDialog({ isOpen, onClose, returnUrl }: AuthDialogProps) {
             access_type: 'offline',
             prompt: 'consent',            
           },
-          redirectTo: 'https://underlayx.com',
+          redirectTo: 'https://pixomni.com',
         },
       });
     } catch (error) {
@@ -45,7 +45,7 @@ export function AuthDialog({ isOpen, onClose, returnUrl }: AuthDialogProps) {
         <DialogHeader className="flex flex-col items-center justify-center space-y-2">
           <DialogTitle asChild>
             <h2 className="text-2xl font-bold text-center">
-              Sign up to UnderlayX AI
+              Sign up to Pixomni
             </h2>
           </DialogTitle>
           <p className="text-sm text-muted-foreground opacity-70 text-center">

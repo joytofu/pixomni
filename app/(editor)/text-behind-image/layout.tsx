@@ -1,12 +1,12 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Add Text Behind Image | Text Behind Picture Editor | UnderlayX AI',
-  description: 'Create stunning text behind image effects. Our AI-powered tool helps you add text behind photos, create text background effects, and design creative text overlays for your images.',
-  keywords: 'text behind image, put text behind picture, text behind photo editor, image text effects, text background effects',
+  title: 'Pixomni: Free Tool to Overlay Text on Image & More',
+  description: 'Easily overlay text on images with Pixomni, your free online tool! Customize fonts & colors, then enhance, remove backgrounds, or add logos. Try it now!',
+  keywords: 'overlay text on image, text behind image, put text behind picture, text behind photo editor, image text effects, text background effects',
   openGraph: {
-    title: 'Add Text Behind Image | Text Behind Picture Editor',
-    description: 'Create stunning text behind image effects with UnderlayX. Add text behind photos easily.',
+    title: 'Free Text Overlay Tool & Online Image Editor | Pixomni',
+    description: 'Pixomni is your free text overlay tool! Add beautiful text to any image online. Plus, enjoy powerful features like image enhancer & background remover.',
     images: ['/povafter.jpg'],
   }
 };

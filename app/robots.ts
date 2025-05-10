@@ -6,7 +6,7 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://www.underlayx.com/sitemap.xml',
-    host: 'https://www.underlayx.com',
+    sitemap: 'https://pixomni.com/sitemap.xml',
+    host: 'https://pixomni.com',
   };
 }

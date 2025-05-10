@@ -43,7 +43,7 @@ export function Footer() {
                 Have a question or need help? Email me at
               </li>
               <li className="text-gray-900 dark:text-gray-300 text-sm font-medium">
-                dailifyofficial@gmail.com
+                support@pixomni.com
               </li>
             </ul>
           </div>
@@ -64,7 +64,7 @@ export function Footer() {
         </div>
 
         {/* Mobile view - Github link */}
-        <div className="md:hidden flex flex-col items-center gap-2 text-sm text-gray-600 dark:text-gray-400">
+        {/* <div className="md:hidden flex flex-col items-center gap-2 text-sm text-gray-600 dark:text-gray-400">
           <a
             href="https://github.com/nagavineerpasam/UnderlayX"
             target="_blank"
@@ -74,7 +74,7 @@ export function Footer() {
             <Github className="w-4 h-4" />
             <span>View on GitHub</span>
           </a>
-        </div>
+        </div> */}
       </div>
     </footer>
   );

@@ -13,13 +13,13 @@ export default function Terms() {
         <div className="max-w-3xl mx-auto">
           <div className="bg-black/20 backdrop-blur-sm p-8 rounded-xl border border-gray-800">
             <p className="text-gray-300 mb-6">
-              By accessing or using UnderlayX AI ("the Service"), you agree to comply with and be bound by these Terms and Conditions ("Terms"). If you do not agree to these Terms, do not use the Service.
+              By accessing or using Pixomni ("the Service"), you agree to comply with and be bound by these Terms and Conditions ("Terms"). If you do not agree to these Terms, do not use the Service.
             </p>
 
             {[
               {
                 title: "1. Acceptance of Terms",
-                content: "By using UnderlayX AI, you agree to these Terms and Conditions, which may be updated from time to time. We encourage you to review these Terms periodically to stay informed of any changes."
+                content: "By using Pixomni, you agree to these Terms and Conditions, which may be updated from time to time. We encourage you to review these Terms periodically to stay informed of any changes."
               },
               {
                 title: "2. User Authentication",
@@ -28,12 +28,12 @@ export default function Terms() {
               },
               {
                 title: "3. Image Processing",
-                content: ["All image processing, including adding text and shapes behind images, occurs entirely on your device's browser. UnderlayX AI does not process or store any of your images on our servers.",
+                content: ["All image processing, including adding text and shapes behind images, occurs entirely on your device's browser. Pixomni does not process or store any of your images on our servers.",
                 "The Service only processes images locally, which means your data never leaves your device unless you choose to download the processed file."]
               },
               {
                 title: "4. Data Privacy and Security",
-                content: ["UnderlayX AI does not store any images or personal data on its servers. All images and data are processed on your device's browser.",
+                content: ["Pixomni does not store any images or personal data on its servers. All images and data are processed on your device's browser.",
                 "We do not track or store personal data. Any data (such as images) provided by you is processed locally and deleted once you exit the page or download the processed image.",
                 "Third-Party Integrations:",
                 "• We use PayU for payments within India, requiring a phone number to send transaction SMS. This information is passed to PayU securely but is not stored in our database.",
@@ -41,7 +41,7 @@ export default function Terms() {
               },
               {
                 title: "5. User Responsibilities",
-                content: ["We encourage you to explore your creativity and have fun using UnderlayX AI! To keep the platform enjoyable and safe for everyone, we ask that you:",
+                content: ["We encourage you to explore your creativity and have fun using Pixomni! To keep the platform enjoyable and safe for everyone, we ask that you:",
                 "• Use the Service responsibly and in ways that inspire creativity.",
                 "• Avoid uploading or creating content that could harm others or violate any laws, such as offensive, explicit, or illegal material.",
                 "• Respect intellectual property rights and ensure the content you create does not infringe on the rights of others.",
@@ -49,12 +49,12 @@ export default function Terms() {
               },
               {
                 title: "6. Limitations of Liability",
-                content: ["UnderlayX AI provides the Service \"as is\" and does not guarantee that the Service will be uninterrupted or error-free.",
+                content: ["Pixomni provides the Service \"as is\" and does not guarantee that the Service will be uninterrupted or error-free.",
                 "We are not responsible for any direct, indirect, incidental, or consequential damages arising from the use of the Service, including but not limited to any loss of data or images."]
               },
               {
                 title: "7. Termination",
-                content: "UnderlayX AI reserves the right to suspend or terminate your access to the Service if we determine that you have violated these Terms."
+                content: "Pixomni reserves the right to suspend or terminate your access to the Service if we determine that you have violated these Terms."
               },
               {
                 title: "8. Changes to Terms",
@@ -63,8 +63,8 @@ export default function Terms() {
               {
                 title: "9. Contact Information",
                 content: ["If you have any questions about these Terms and Conditions, please contact us at:",
-                "Email: dailifyofficial@gmail.com",
-                "Website: https://www.underlayx.com/"]
+                "Email: support@pixomni.com",
+                "Website: https://pixomni.com/"]
               }
             ].map((section, index) => (
               <div key={index} className="mb-8">

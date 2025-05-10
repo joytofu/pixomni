@@ -1198,7 +1198,7 @@ export const useEditor = create<EditorState & EditorActions>()((set, get) => ({
           }
       
           const timestamp = Math.floor(Date.now() / 1000);
-          const fileName = `UnderlayXAI_${timestamp}.png`;
+          const fileName = `Pixomni_${timestamp}.png`;
           const blobUrl = URL.createObjectURL(blob);
       
           try {

@@ -158,7 +158,7 @@ export function Canvas({ shouldAutoUpload, mode = "full" }: CanvasProps) {
       const validTypes = [
         "image/jpeg",
         "image/png",
-        "image.webp",
+        "image/webp",
         "image.webp",
         "image.heic",
         "image/heic",

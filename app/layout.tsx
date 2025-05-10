@@ -9,25 +9,25 @@ import { PricingProvider } from '@/contexts/PricingContext';
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'All-in-One Free AI Image Editor - UnderlayX AI',
-  description: 'The ultimate tool to add text and shapes behind images, remove backgrounds, clone objects, change backgrounds, and create glowing effects effortlessly. Perfect for creators and designers.',
-  metadataBase: new URL('https://www.underlayx.com'),
+  title: 'Pixomni: Free Background Remover & Online Image Editor',
+  description: 'Instantly remove backgrounds for free with Pixomni! A powerful online image editor to add text, enhance photos, clone objects & much more. Try it now!',
+  metadataBase: new URL('https://pixomni.com'),
   openGraph: {
     type: 'website',
-    url: 'https://www.underlayx.com',
-    title: 'All-in-One Free AI Image Editor - UnderlayX AI',
-    description: 'Add text and shapes behind images, remove backgrounds, clone objects, change backgrounds, and create glowing effects. Elevate your visuals with UnderlayX AI.',
+    url: 'https://pixomni.com',
+    title: 'Pixomni: Free Background Remover & Online Image Editor',
+    description: 'Instantly remove backgrounds for free with Pixomni! A powerful online image editor to add text, enhance photos, clone objects & much more. Try Pixomni now!',
     images: ['/og-image.png'],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'UnderlayX AI | All-in-One Free AI Image Editor',
-    description: 'Add text and shapes behind images, remove backgrounds, clone objects, change backgrounds, and create glowing effects effortlessly. Try it now!',
-    creator: '@underlayx',
+    title: 'Pixomni | Free Background Remover & Online Image Editor',
+    description: 'Instantly remove backgrounds for free with Pixomni! A powerful online image editor to add text, enhance photos, clone objects & much more. Try it now!',
+    creator: '@kcswag077',
     images: ['/og-image.png'],
-    site: '@underlayx',
+    site: '',
   },
-  keywords: 'image behind image, image overlay, blend image, logo behind image, text behind image, logos behind image, shapes behind image, remove background, clone objects, change background, glowing text effect, image editor, photo editing, advanced image editor, youtube thumbnail maker',
+  keywords: 'free background remover, online image editor, add text to image, image enhancer',
   icons: {
     icon: '/favicon.ico',
   },

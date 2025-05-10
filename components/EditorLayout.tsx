@@ -127,7 +127,7 @@ export function EditorLayout({
               className="flex items-center gap-2 text-gray-900 dark:text-white hover:opacity-80 transition-opacity"
             >
               <span className="text-xl font-semibold hidden sm:inline">
-                UnderlayX AI
+                Pixomni
               </span>
               <div className="flex items-center flex-col">
                 <Home className="sm:hidden w-5 h-5" />

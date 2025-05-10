@@ -15,7 +15,7 @@ export default function Privacy() {
         <div className="max-w-3xl mx-auto">
           <div className="bg-black/20 backdrop-blur-sm p-8 rounded-xl border border-gray-800">
             <p className="text-gray-300 mb-6">
-              UnderlayX AI ("the Service") respects your privacy and is
+              Pixomni ("the Service") respects your privacy and is
               committed to protecting your personal information. This Privacy
               Policy outlines how we collect, use, and safeguard your data when
               you use our Service.
@@ -84,8 +84,8 @@ export default function Privacy() {
                 title: "8. Contact Us",
                 content: [
                   "If you have any questions or concerns about this Privacy Policy, please contact us:",
-                  "Email: dailifyofficial@gmail.com",
-                  "Website: https://www.underlayx.com",
+                  "Email: support@pixomni.com",
+                  "Website: https://pixomni.com",
                 ],
               },
             ].map((section, index) => (

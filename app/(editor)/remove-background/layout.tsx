@@ -1,12 +1,12 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Remove Background from Images | Background Remover | UnderlayX AI',
-  description: 'Remove background from images instantly. Our AI-powered tool helps you remove backgrounds from photos with precision, perfect for product photos and portraits.',
+  title: 'Pixomni: The Ultimate Free Background Remover & Editor',
+  description: 'Need to remove a background for free? Pixomni is your ultimate online tool! Get clean cutouts, then add text, logos, or use our image enhancer.',
   keywords: 'remove background, background remover, transparent background, remove image background, photo background remover',
   openGraph: {
-    title: 'Remove Background from Images | Background Remover',
-    description: 'Remove backgrounds from your images instantly with UnderlayX AI.',
+    title: 'Remove Background Free & Easy Online | Pixomni Editor',
+    description: 'Easily remove background from images for free with Pixomni! Our simple online editor makes it fast. Also add text, enhance photos, and more. Try it now!',
     images: ['/shirtafter.jpg'],
   }
 };

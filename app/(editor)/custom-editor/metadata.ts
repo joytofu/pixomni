@@ -1,8 +1,8 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'UnderlayX AI: Edit Images with Cloning, Text Behind, and Background Customization',
-  description: 'Free online tool to clone images, customize backgrounds, add text behind images, and place shapes behind objects for stunning visual edits.',
+  title: 'Pixomni: Free Background Remover & Online Image Editor',
+  description: 'Instantly remove backgrounds for free with Pixomni! A powerful online image editor to add text, enhance photos, clone objects & much more. Try it now!',
   keywords: [
     'text behind image',
     'image editor',
@@ -16,25 +16,25 @@ export const metadata: Metadata = {
     'online image editor'
   ].join(', '),
   openGraph: {
-    title: 'UnderlayX AI: Edit Images with Cloning, Text Behind, and Background Customization',
-    description: 'Free online tool to clone images, customize backgrounds, add text behind images, and place shapes behind objects for stunning visual edits.',
-    url: 'https://underlayx.com/custom-editor',
-    siteName: 'UnderlayX AI',
+    title: 'Pixomni: Free Background Remover & Online Image Editor',
+    description: 'Instantly remove backgrounds for free with Pixomni! A powerful online image editor to add text, enhance photos, clone objects & much more. Try it now!',
+    url: 'https://pixomni.com/custom-editor',
+    siteName: 'Pixomni',
     images: [
       {
-        url: 'https://underlayx.com/og-image.png',
+        url: 'https://pixomni.com/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'UnderlayX AI Editor Preview'
+        alt: 'Pixomni'
       }
     ],
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'UnderlayX AI: Edit Images with Cloning, Text Behind, and Background Customization',
-    description: 'Free online tool to clone images, customize backgrounds, add text behind images, and place shapes behind objects for stunning visual edits.',
-    images: ['https://underlayx.com/og-image.png'],
+    title: 'Pixomni - Free Background Remover & Online Image Editor',
+    description: 'Looking for a reliable free background remover? Pixomni delivers! Remove backgrounds easily and then explore our online image editor to add text, logos, and much more.',
+    images: ['https://pixomni.com/og-image.png'],
   },
   robots: {
     index: true,

@@ -2,16 +2,16 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title:
-    "AI Image Cloning & Duplication | Professional Object Replication Tool",
+    "Pixomni: Clone Objects in Images Free - Online Editor",
   description:
-    "Explore AI-driven image cloning and object duplication with UnderlayX AI. Create multiple images, replicate objects, and enhance your designs effortlessly.",
+    "Easily clone objects in your photos with Pixomni's free online image editor! Duplicate elements, remove distractions, add text, or enhance images. Try it!",
   keywords:
-    "AI image cloning, duplicate objects, object replication AI, create multiple images, image duplication tool, UnderlayX AI",
+    "AI image cloning, duplicate objects, object replication AI, create multiple images, image duplication tool, pixomni",
   openGraph: {
     title:
-      "AI Image Cloning & Duplication | Professional Object Replication Tool",
+      "Pixomni: Duplicate Objects & Edit Photos Online Free",
     description:
-      "Explore AI-driven image cloning and object duplication with UnderlayX AI. Create multiple images, replicate objects, and enhance your designs effortlessly.",
+      "Want to duplicate objects or seamlessly remove distractions? Pixomni's image clone tool lets you copy parts of an image. Your free online editor for more!",
     images: ["/appleafter.jpeg"],
   },
 };

@@ -40,7 +40,7 @@ export function TransformationPage({
             "hover:opacity-80 transition-opacity"
           )}
         >
-          UnderlayX AI
+          Pixomni
         </Link>
       </nav>
 
