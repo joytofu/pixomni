@@ -32,16 +32,16 @@ export function ProUpgradeButton({ variant = 'default', className }: ProUpgradeB
         onClick={handleUpgradeClick}
         className={cn(
           buttonVariants({ variant: 'outline' }),
-          'group relative overflow-hidden border-purple-600/50 hover:border-purple-600',
+          'group relative overflow-hidden border-green-600/50 hover:border-green-600',
           'transition-all duration-300 ease-out hover:scale-105',
           variant === 'nav' ? 'h-8 rounded-full px-3 text-sm' : 'h-9 rounded-lg px-4',
           className
         )}
       >
-        <span className="absolute inset-0 bg-gradient-to-r from-purple-600/20 to-purple-400/20 group-hover:opacity-80 opacity-0 transition-opacity" />
+        <span className="absolute inset-0 bg-gradient-to-r from-green-600/20 to-green-400/20 group-hover:opacity-80 opacity-0 transition-opacity" />
         <span className="flex items-center gap-1.5">
-          <Sparkles className="w-4 h-4 text-purple-600" />
-          <span className="text-purple-600 font-medium">
+          <Sparkles className="w-4 h-4 text-green-600" />
+          <span className="text-green-600 font-medium">
             Pro
           </span>
         </span>

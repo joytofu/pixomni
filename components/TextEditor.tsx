@@ -173,7 +173,7 @@ export function TextEditor() {
                       className={cn(
                         "h-4 w-4",
                         textSet.fontWeight === "700" &&
-                          "text-purple-600 dark:text-purple-400"
+                          "text-green-600 dark:text-green-400"
                       )}
                     />
                   </Button>
@@ -195,7 +195,7 @@ export function TextEditor() {
                           placement: checked ? "background" : "foreground",
                         })
                       }
-                      className="data-[state=checked]:bg-purple-600"
+                      className="data-[state=checked]:bg-green-600"
                     />
                     <span className="text-sm text-gray-600 dark:text-gray-400">
                       Behind
@@ -521,7 +521,7 @@ export function TextEditor() {
                 </button>
                 <button
                   onClick={() => duplicateTextSet(textSet.id)}
-                  className="flex-1 p-2 bg-purple-50 dark:bg-purple-500/10 text-purple-600 dark:text-purple-400 rounded-md hover:bg-purple-100 dark:hover:bg-purple-500/20 flex items-center justify-center gap-1"
+                  className="flex-1 p-2 bg-green-50 dark:bg-green-500/10 text-green-600 dark:text-green-400 rounded-md hover:bg-green-100 dark:hover:bg-green-500/20 flex items-center justify-center gap-1"
                 >
                   <Copy className="h-4 w-4" />
                   <span>Duplicate</span>

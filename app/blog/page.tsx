@@ -21,9 +21,9 @@ export default function BlogIndex() {
                 key={post.slug}
                 href={`/blog/${post.slug}`}
                 className="p-6 rounded-xl border border-gray-800 hover:border-gray-700 bg-black/20 backdrop-blur-sm
-                  transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-purple-500/10"
+                  transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-green-500/10"
               >
-                <span className="text-sm text-purple-400">{post.category}</span>
+                <span className="text-sm text-green-400">{post.category}</span>
                 <h2 className="text-xl font-bold text-white mt-2 mb-3">{post.title}</h2>
                 <p className="text-gray-400">{post.description}</p>
                 <time className="mt-4 block text-sm text-gray-500">{post.date}</time>

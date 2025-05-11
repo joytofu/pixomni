@@ -35,7 +35,7 @@ export function BlogPost({ post }: BlogPostProps) {
             className="prose prose-invert prose-lg max-w-none mb-16"
             dangerouslySetInnerHTML={{ __html: sanitizedContent }}
           />
-          <div className="mt-16 p-8 rounded-2xl bg-gradient-to-br from-purple-900/30 to-blue-900/30 border border-purple-500/20">
+          <div className="mt-16 p-8 rounded-2xl bg-gradient-to-br from-green-900/30 to-blue-900/30 border border-green-500/20">
             <h2 className="text-2xl font-bold text-white mb-4">Ready to Try It Yourself?</h2>
             <p className="text-gray-300 mb-6">
               Start creating your own {post.title.toLowerCase()} with our easy-to-use editor. No sign-up required - it's completely free!

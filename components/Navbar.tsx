@@ -205,7 +205,7 @@ export function Navbar() {
     ));
 
   return (
-    <nav className="fixed top-0 left-0 right-0 z-[100] bg-white dark:bg-[#1a0b2e] border-b border-gray-200 dark:border-white/10">
+    <nav className="fixed top-0 left-0 right-0 z-[100] bg-white dark:bg-green-900 border-b border-gray-200 dark:border-white/10">
       <div className="container mx-auto px-4 py-3">
         <div className="max-w-7xl mx-auto flex items-center justify-between">
           <Link
@@ -286,7 +286,7 @@ export function Navbar() {
             </a> */}
 
             {/* Login/User menu third */}
-            {isLoading ? (
+            {/* {isLoading ? (
               <div className="w-8 h-8 flex items-center justify-center">
                 <Loader2 className="w-4 h-4 text-white/50 animate-spin" />
               </div>
@@ -299,7 +299,7 @@ export function Navbar() {
                   <div className="relative">
                     {generationInfo?.expires_at &&
                       isSubscriptionActive(generationInfo.expires_at) && (
-                        <div className="absolute -top-2 -translate-y-0.5 left-1/2 -translate-x-1/2 bg-purple-600 text-white text-[10px] px-1.5 py-0.5 rounded-full font-medium leading-none whitespace-nowrap z-30">
+                        <div className="absolute -top-2 -translate-y-0.5 left-1/2 -translate-x-1/2 bg-green-600 text-white text-[10px] px-1.5 py-0.5 rounded-full font-medium leading-none whitespace-nowrap z-30">
                           Pro
                         </div>
                       )}
@@ -338,7 +338,7 @@ export function Navbar() {
                           {generationInfo.expires_at &&
                           isSubscriptionActive(generationInfo.expires_at) ? (
                             <>
-                              <div className="text-purple-600 font-medium">
+                              <div className="text-green-600 font-medium">
                                 Pro Plan Active
                               </div>
                               <div>
@@ -367,7 +367,7 @@ export function Navbar() {
                 <LogIn className="w-4 h-4" />
                 <span>Login</span>
               </button>
-            )}
+            )} */}
 
             {/* Theme toggle last */}
             <ThemeToggle />
@@ -469,7 +469,7 @@ export function Navbar() {
               ) : (
                 <button
                   onClick={() => setShowAuthDialog(true)}
-                  className="w-full flex items-center justify-center gap-2 p-3 text-white bg-purple-600 rounded-lg"
+                  className="w-full flex items-center justify-center gap-2 p-3 text-white bg-green-600 rounded-lg"
                 >
                   <LogIn className="w-5 h-5" />
                   <span>Login</span>

@@ -5,72 +5,80 @@ import Link from 'next/link';
 export default function FAQ() {
   const faqs = [
     {
-      question: "What is Pixomni?",
-      answer: "Pixomni is a free online tool designed for creative image editing. It allows you to clone images, add text and shapes behind objects, customize backgrounds, and download high-quality edits, all from your browser."
+      question: "What is Pixomni and what can it do?",
+      answer: "Pixomni is a free online image editor designed for creative photo editing directly in your browser. It empowers you to perform advanced tasks like cloning images, seamlessly adding text and shapes behind objects, fully customizing image backgrounds, and downloading high-quality, high-resolution edits. Pixomni is your go-to tool for making your images stand out."
     },
     {
-      question: "Do I need to create an account to use Pixomni?",
-      answer: "Yes, you need to sign up with Google to access Pixomni and unlock its full suite of features."
+      question: "Is a Pixomni account required to use its features?",
+      answer: "Yes, to access the full suite of Pixomni's powerful image editing features, you'll need to sign up using your Google account. This quick sign-up unlocks all functionalities and ensures a personalized experience."
     },
     {
-      question: "Does Pixomni store my images or personal data?",
-      answer: "No, Pixomni operates fully client-side. Your images and edits are processed locally on your device and are never uploaded or stored on our servers."
+      question: "How does Pixomni handle my images and personal data for privacy?",
+      answer: "Your privacy is paramount. Pixomni operates fully client-side, meaning your images and any edits you make are processed locally on your device. We do not upload or store your images or personal data on our servers, ensuring your creations remain private and secure."
     },
     {
-      question: "Is Pixomni free to use?",
-      answer: "Yes, Pixomni is free to use. Premium features and options will be introduced soon for even more functionality."
+      question: "Is Pixomni completely free to use?",
+      answer: "Yes, Pixomni offers a robust set of free image editing tools. We are committed to providing significant value at no cost. In the future, we plan to introduce optional premium features for users seeking even more advanced functionality and professional capabilities."
     },
     {
-      question: "What features does Pixomni offer?",
-      answer: "Pixomni provides powerful editing tools, including cloning images, customizing backgrounds, adding text behind images, placing shapes behind objects, and downloading high-resolution edits."
+      question: "What are the key features of Pixomni's image editor?",
+      answer: <span>Pixomni provides a range of powerful and intuitive image editing tools. Key features include: 
+        <ul>
+          <li>1. Image Cloning: Easily duplicate objects or remove unwanted elements.</li>
+          <li>2. Background Customization: Change, blur, or remove image backgrounds.</li>
+          <li>3. Text & Shapes Behind Objects: Creatively place text or shapes behind elements in your photo for a unique depth effect.</li>
+          <li>4. High-Resolution Downloads: Export your edited images in high quality, suitable for print or digital use.</li>
+          <li>5. Browser-Based Editing: No software installation required; edit directly online.</li>
+        </ul>
+      </span>
     },
     {
-      question: "How do I place text behind an image?",
-      answer: <span>You can place text behind images effortlessly. Simply visit <Link href="https://www.pixomni.com/text-behind-image" className="text-blue-400 hover:underline">Text Behind Image</Link>.</span>
+      question: "How can I easily place text behind an image using Pixomni?",
+      answer: <span>Placing text behind an image (or behind an object within an image) is a standout feature of Pixomni, and it's designed to be effortless. Simply upload your image, use our intuitive tools to define the foreground object, and then add your text. For a step-by-step guide, please visit our <Link href="/text-behind-image" className="text-blue-400 hover:underline" target='_blank'>Text Behind Image</Link>.</span>
     },
     {
-      question: "How do I place shapes behind objects in an image?",
-      answer: <span>To place shapes behind objects in your image, visit <Link href="https://pixomni.com/shape-behind-image" className="text-blue-400 hover:underline">Shape Behind Image</Link>.</span>
+      question: "How can I place shapes behind objects in a photo?",
+      answer: <span>To creatively add depth or design elements by placing shapes behind specific objects in your image, Pixomni makes it easy. Visit our <Link href="/shape-behind-image" className="text-blue-400 hover:underline" target='_blank'>Shape Behind Image</Link> feature to learn how.</span>
     },
     {
-      question: "How do I remove the background from an image?",
-      answer: <span>Removing the background of any image is simple. Visit <Link href="https://pixomni.com/remove-background" className="text-blue-400 hover:underline">Remove Background</Link>.</span>
+      question: "What's the best way to remove the background from an image?",
+      answer: <span>Removing the background from any image to make your subject stand out is simple with Pixomni. Whether you need a transparent background or want to isolate an object, visit our <Link href="/remove-background" className="text-blue-400 hover:underline" target='_blank'>Remove Background</Link> tool for a quick solution..</span>
     },
     {
-      question: "How do I change the background of an image?",
-      answer: <span>Changing the background of an image is quick and easy. Visit <Link href="https://pixomni.com/change-background" className="text-blue-400 hover:underline">Change Background</Link>.</span>
+      question: "How do I change the background of a photo online?",
+      answer: <span>Changing the background of an image is quick and easy. Visit <Link href="/change-background" className="text-blue-400 hover:underline" target='_blank'>Change Background</Link> tool to get started..</span>
     },
     {
-      question: "How do I clone images using Pixomni?",
-      answer: <span>Cloning images is straightforward. Just visit <Link href="https://pixomni.com/clone-image" className="text-blue-400 hover:underline">Clone Image</Link>.</span>
+      question: "How can I clone or duplicate parts of an image with Pixomni?",
+      answer: <span>Cloning parts of an image, whether to remove unwanted elements or duplicate objects, is straightforward with Pixomni. Our <Link href="/clone-image" className="text-blue-400 hover:underline" target='_blank'>Clone Image</Link> tool helps you achieve seamless edits. Just visit the feature to see how.</span>
     },
     {
-      question: "Can I customize backgrounds with Pixomni?",
-      answer: "Yes, you can easily remove, change, or customize backgrounds to fit your creative needs."
+      question: "Can I fully customize image backgrounds using Pixomni?",
+      answer: "Yes, absolutely! With Pixomni, you have complete control to customize image backgrounds. You can easily remove, change, add new elements, or fine-tune existing backgrounds to perfectly fit your creative vision and project needs."
     },
     {
-      question: "Does Pixomni support high-resolution downloads?",
-      answer: "Absolutely! All your edited images can be downloaded in high resolution to ensure the best quality."
+      question: "Does Pixomni allow high-resolution image downloads?",
+      answer: "Definitely! Pixomni supports high-resolution downloads for all your edited images. We ensure that your final creations can be downloaded in the best possible quality, perfect for print or professional digital use."
     },
     {
-      question: "Do I need any design experience to use Pixomni?",
+      question: "Is Pixomni easy to use for beginners, or do I need design experience?",
       answer: "Not at all! Pixomni is user-friendly and designed for everyone, from beginners to professionals."
     },
     {
-      question: "Is there a limit to how many images I can edit on Pixomni?",
-      answer: "No, you can edit as many images as you like without any restrictions."
+      question: "What is the image editing limit in Pixomni? Can I edit unlimited images?",
+      answer: "Yes, you can! There are no restrictions on the number of images you can edit with Pixomni. Feel free to edit as many photos as you need, without any limits."
     },
     {
-      question: "Does Pixomni work on all devices?",
-      answer: "Yes, Pixomni is a web-based tool designed to work on any device with an internet connection and a modern browser."
+      question: "What devices and browsers are compatible with Pixomni?",
+      answer: "Pixomni is a web-based tool accessible on any device (desktop, laptop, tablet, smartphone) with an internet connection and a modern web browser (like Chrome, Firefox, Safari, Edge). This ensures you can edit your images wherever you are."
     },
     {
-      question: "How do I report a bug or request a feature?",
-      answer: "You can contact me at support@pixomni.com."
+      question: "How can I report a bug or suggest a new feature for Pixomni?",
+      answer: "We'd love to hear from you! You can report bugs or request features by contacting our support team at support@pixomni.com. Your feedback helps us make Pixomni better."
     },
     {
-      question: "Does Pixomni work offline?",
-      answer: "No, Pixomni requires an internet connection to function, as it is a web-based tool."
+      question: "Can I use Pixomni offline, or do I need an internet connection?",
+      answer: "Pixomni is a web-based photo editing tool and requires an active internet connection to function. This ensures you always have access to the latest features, updates."
     }
   ];
 

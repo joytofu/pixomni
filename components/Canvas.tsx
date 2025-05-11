@@ -257,7 +257,7 @@ export function Canvas({ shouldAutoUpload, mode = "full" }: CanvasProps) {
               </p>
               <button
                 onClick={handleUpgradeClick}
-                className="mt-2 px-3 py-1 text-xs font-medium text-white bg-purple-500/30 hover:bg-purple-500/40 rounded-full transition-colors"
+                className="mt-2 px-3 py-1 text-xs font-medium text-white bg-green-500/30 hover:bg-green-500/40 rounded-full transition-colors"
               >
                 Upgrade Now
               </button>
@@ -381,7 +381,7 @@ export function Canvas({ shouldAutoUpload, mode = "full" }: CanvasProps) {
                   <label
                     htmlFor="canvas-upload"
                     className={cn(
-                      "bg-purple-600 hover:bg-purple-700 text-white px-6 py-3 rounded-full shadow-lg flex items-center gap-2 transition-colors",
+                      "bg-green-600 hover:bg-green-700 text-white px-6 py-3 rounded-full shadow-lg flex items-center gap-2 transition-colors",
                       (isConverting || isProcessing) &&
                         "opacity-50 cursor-not-allowed"
                     )}
@@ -398,18 +398,18 @@ export function Canvas({ shouldAutoUpload, mode = "full" }: CanvasProps) {
                   htmlFor="canvas-upload"
                   className={cn(
                     "absolute inset-0 flex flex-col items-center justify-center gap-3",
-                    "border-2 border-dashed border-purple-500/50 dark:border-purple-400/30", // Changed this line
+                    "border-2 border-dashed border-green-500/50 dark:border-green-400/30", // Changed this line
                     "rounded-lg", // Smaller border radius
                     "transition-all bg-white/50 dark:bg-zinc-900/50",
                     "hover:bg-gray-50/80 dark:hover:bg-zinc-800/50",
-                    "hover:border-purple-500 dark:hover:border-purple-400", // Added this line for hover effect
+                    "hover:border-green-500 dark:hover:border-green-400", // Added this line for hover effect
                     "backdrop-blur-sm",
                     "cursor-pointer",
                     (isConverting || isProcessing) && "opacity-50 cursor-not-allowed"
                   )}
                   onClick={(e) => (isConverting || isProcessing) && e.preventDefault()}
                 >
-                  <div className="flex items-center gap-3 px-4 py-2 bg-purple-600 hover:bg-purple-700 dark:bg-purple-600 dark:hover:bg-purple-700 rounded-full shadow-sm transition-colors">
+                  <div className="flex items-center gap-3 px-4 py-2 bg-green-600 hover:bg-green-700 dark:bg-green-600 dark:hover:bg-green-700 rounded-full shadow-sm transition-colors">
                     <Upload className="w-5 h-5 text-white" />
                     <span className="text-sm font-medium text-white">
                       {isConverting ? "Converting..." : "Select an image"}

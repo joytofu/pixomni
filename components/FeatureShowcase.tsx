@@ -6,6 +6,13 @@ import { cn } from "@/lib/utils";
 
 const features = [
   {
+    title: "Remove & Customize Background",
+    beforeImage: "/background-before.webp",
+    afterImage: "/background-after.png",
+    beforeAlt: "Original image with background",
+    afterAlt: "Image with customized background",
+  },
+  {
     title: "Add Images Behind Main Image",
     beforeImage: "/personbefore.jpg",
     afterImage: "/personafter.jpg",
@@ -18,13 +25,6 @@ const features = [
     afterImage: "/povafter.jpg",
     beforeAlt: "Original image without text",
     afterAlt: "Image with text added behind",
-  },
-  {
-    title: "Remove & Customize Background",
-    beforeImage: "/shirtbefore.jpg",
-    afterImage: "/shirtafter.jpg",
-    beforeAlt: "Original image with background",
-    afterAlt: "Image with customized background",
   },
   {
     title: "Add Logos Behind Image",

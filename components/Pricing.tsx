@@ -57,7 +57,7 @@ export function Pricing() {
           onClick={() => setShowAuthDialog(true)}
           className={`block w-full py-3 px-6 text-center ${
             plan === 'pro' 
-              ? 'bg-purple-600 hover:bg-purple-700' 
+              ? 'bg-green-600 hover:bg-green-700' 
               : 'bg-white/10 hover:bg-white/20'
           } text-white rounded-lg font-medium transition-colors`}
         >
@@ -68,7 +68,7 @@ export function Pricing() {
 
     if (isProActive) {
       return (
-        <div className="text-center py-3 px-6 bg-purple-600/20 text-purple-400 rounded-lg font-medium">
+        <div className="text-center py-3 px-6 bg-green-600/20 text-green-400 rounded-lg font-medium">
           Pro Plan Active
         </div>
       );
@@ -79,7 +79,7 @@ export function Pricing() {
         href={plan === 'pro' ? '/pay' : '/custom-editor'}
         className={`block w-full py-3 px-6 text-center ${
           plan === 'pro' 
-            ? 'bg-purple-600 hover:bg-purple-700' 
+            ? 'bg-green-600 hover:bg-green-700' 
             : 'bg-white/10 hover:bg-white/20'
         } text-white rounded-lg font-medium transition-colors`}
       >
@@ -130,8 +130,8 @@ export function Pricing() {
           </div>
 
           {/* Pro Plan Card */}
-          <div className="bg-white/5 border border-purple-500/20 rounded-2xl p-8 backdrop-blur-sm relative">
-            <div className="absolute -top-4 right-4 bg-purple-600 text-white px-3 py-1 rounded-full text-sm font-medium">
+          <div className="bg-white/5 border border-green-500/20 rounded-2xl p-8 backdrop-blur-sm relative">
+            <div className="absolute -top-4 right-4 bg-green-600 text-white px-3 py-1 rounded-full text-sm font-medium">
               Popular
             </div>
             <div className="flex justify-between items-start mb-6">
@@ -147,12 +147,12 @@ export function Pricing() {
                   <span className="text-gray-400 ml-2">/month</span>
                 </div>
               </div>
-              <div className="text-xs text-purple-400 text-right">
+              <div className="text-xs text-green-400 text-right">
                 Premium<br />Processing
               </div>
             </div>
             <p className="text-gray-400 mb-6">
-              <span className="block mt-2 text-purple-400">
+              <span className="block mt-2 text-green-400">
                 Limited time offer - Save {selectedCountry === 'India' ? '₹50' : '$3'} today!
               </span>
             </p>

@@ -163,7 +163,7 @@ export function TuneImageEditor() {
           className={cn(
             'px-4 py-2 text-sm font-medium transition-colors',
             activeTab === 'background'
-              ? 'border-b-2 border-purple-600 text-purple-600'
+              ? 'border-b-2 border-green-600 text-green-600'
               : 'text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-100'
           )}
         >
@@ -174,7 +174,7 @@ export function TuneImageEditor() {
           className={cn(
             'px-4 py-2 text-sm font-medium transition-colors',
             activeTab === 'foreground'
-              ? 'border-b-2 border-purple-600 text-purple-600'
+              ? 'border-b-2 border-green-600 text-green-600'
               : 'text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-100'
           )}
         >

@@ -5,8 +5,8 @@ import { TransformationPage } from '@/components/TransformationPage';
 export default function CloneImagePage() {
   return (
     <TransformationPage
-      title="Clone Image Transform"
-      description="Easily clone and duplicate objects within your images. Perfect for creating repetitive patterns."
+      title="Online Clone Stamp Tool: Free Image Duplication & Retouching"
+      description="Seamlessly copy parts of your image to duplicate elements, remove distractions, or create flawless patterns. Our free online clone tool makes image editing easy and fast. No registration needed!"
       beforeImage="/applebefore.jpg"
       afterImage="/appleafter.jpeg"
       beforeAlt="Original image before cloning"

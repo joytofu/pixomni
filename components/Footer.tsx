@@ -48,7 +48,7 @@ export function Footer() {
             </ul>
           </div>
           
-          <div className="flex flex-col items-center md:items-end gap-2">
+          {/* <div className="flex flex-col items-center md:items-end gap-2">
             <p className="text-gray-600 dark:text-gray-400 text-sm">
               Created by{' '}
               <a 
@@ -60,7 +60,7 @@ export function Footer() {
                 Vineer
               </a>
             </p>
-          </div>
+          </div> */}
         </div>
 
         {/* Mobile view - Github link */}

@@ -173,8 +173,8 @@ export function SideNavigation({
         "transition-all duration-200 ease-in-out transform",
         "hover:scale-105",
         activeTab === tabName
-          ? "bg-gradient-to-br from-purple-500/10 to-purple-600/10 text-purple-600 dark:text-purple-400 shadow-lg backdrop-blur-sm"
-          : "text-gray-500 dark:text-gray-400 hover:text-purple-600 dark:hover:text-purple-400",
+          ? "bg-gradient-to-br from-green-500/10 to-green-600/10 text-green-600 dark:text-green-400 shadow-lg backdrop-blur-sm"
+          : "text-gray-500 dark:text-gray-400 hover:text-green-600 dark:hover:text-green-400",
         isTabDisabled(tabName) &&
           "opacity-50 cursor-not-allowed hover:scale-100"
       )}

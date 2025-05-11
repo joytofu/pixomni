@@ -66,7 +66,7 @@ export function ProPlanDialog({ isOpen, onClose }: ProPlanDialogProps) {
       <DialogContent className="sm:max-w-[600px] w-[96vw] bg-zinc-900 border-zinc-800">
         <DialogHeader className="relative">
           <DialogTitle className="text-xl font-bold text-white flex items-center justify-center gap-2">
-            <Sparkles className="w-5 h-5 text-purple-400" />
+            <Sparkles className="w-5 h-5 text-green-400" />
             Upgrade to Pro
           </DialogTitle>
           <DialogClose className="absolute right-0 top-0 text-gray-400 hover:text-white">
@@ -96,7 +96,7 @@ export function ProPlanDialog({ isOpen, onClose }: ProPlanDialogProps) {
                   <span className="line-through text-gray-500 text-lg">
                     {currencySymbol}{getOriginalPrice()}
                   </span>
-                  <span className="font-semibold text-purple-400 text-xl">
+                  <span className="font-semibold text-green-400 text-xl">
                     {currencySymbol}{getDiscountedPrice()}
                   </span>
                 </div>
@@ -105,15 +105,15 @@ export function ProPlanDialog({ isOpen, onClose }: ProPlanDialogProps) {
             </div>
             <div className="mt-4 text-sm text-gray-400 space-y-2.5">
               <div className="flex items-center gap-2">
-                <div className="w-1.5 h-1.5 rounded-full bg-purple-500"></div>
+                <div className="w-1.5 h-1.5 rounded-full bg-green-500"></div>
                 ✨ Unlimited Creations
               </div>
               <div className="flex items-center gap-2">
-                <div className="w-1.5 h-1.5 rounded-full bg-purple-500"></div>
+                <div className="w-1.5 h-1.5 rounded-full bg-green-500"></div>
                 ⚡️ High Speed
               </div>
               <div className="flex items-center gap-2">
-                <div className="w-1.5 h-1.5 rounded-full bg-purple-500"></div>
+                <div className="w-1.5 h-1.5 rounded-full bg-green-500"></div>
                 🎨 Premium Quality (PNG)
               </div>
             </div>
@@ -123,9 +123,9 @@ export function ProPlanDialog({ isOpen, onClose }: ProPlanDialogProps) {
         <div className="mt-6">
           <button
             onClick={handleUpgrade}
-            className="w-full bg-gradient-to-r from-purple-600 to-purple-500 hover:from-purple-500 hover:to-purple-600 
+            className="w-full bg-gradient-to-r from-green-600 to-green-500 hover:from-green-500 hover:to-green-600 
                      text-white rounded-lg py-3 px-4 transition-all duration-300 transform hover:scale-[1.02] 
-                     shadow-lg shadow-purple-600/20 hover:shadow-purple-600/30"
+                     shadow-lg shadow-green-600/20 hover:shadow-green-600/30"
           >
             Upgrade Now
           </button>

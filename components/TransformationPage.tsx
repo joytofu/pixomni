@@ -36,7 +36,7 @@ export function TransformationPage({
         <Link 
           href="/" 
           className={cn(
-            "text-xl font-bold text-purple-600",
+            "text-xl font-bold text-green-800",
             "hover:opacity-80 transition-opacity"
           )}
         >
@@ -46,7 +46,7 @@ export function TransformationPage({
 
       <main className="flex-1 flex flex-col items-center justify-center max-w-4xl mx-auto text-center pt-4 md:pt-0">
         <h1 className={cn(
-          "text-4xl md:text-5xl font-bold mb-4 text-purple-600"
+          "text-4xl md:text-5xl font-bold mb-4 text-green-800"
         )}>
           {title}
         </h1>
@@ -60,17 +60,17 @@ export function TransformationPage({
             onClick={() => router.push('/custom-editor')}
             className={cn(
               "px-8 py-3 text-xl font-semibold text-white",
-              "bg-purple-600 hover:bg-purple-700",
+              "bg-green-800 hover:bg-green-900",
               "rounded-lg shadow-lg",
               "transform transition-all duration-200",
               "hover:scale-105 hover:shadow-xl",
               "active:scale-95"
             )}
           >
-            Create now
+            Upload Image - It's Free!
           </button>
           <p className={`${textColorMuted} text-sm animate-pulse`}>
-            Start creating your own transformed images now
+          Get a high-quality transparent PNG in seconds. No signup needed!
           </p>
         </div>
 
@@ -99,7 +99,7 @@ export function TransformationPage({
             strokeWidth="2"
             strokeLinecap="round"
             strokeLinejoin="round"
-            className="text-purple-500"
+            className="text-green-500"
           >
             <path d="M14 9l6 6-6 6" />
             <path d="M4 4v7a4 4 0 0 0 4 4h11" />

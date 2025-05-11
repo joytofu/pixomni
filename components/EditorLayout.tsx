@@ -209,7 +209,7 @@ export function EditorLayout({
                       {/* Kept for badge space */}
                       {userInfo?.expires_at &&
                         isSubscriptionActive(userInfo.expires_at) && (
-                          <div className="absolute -top-1.5 left-1/2 -translate-x-1/2 bg-purple-600 text-white text-[10px] px-1.5 py-0.5 rounded-full font-medium leading-none whitespace-nowrap z-30">
+                          <div className="absolute -top-1.5 left-1/2 -translate-x-1/2 bg-green-600 text-white text-[10px] px-1.5 py-0.5 rounded-full font-medium leading-none whitespace-nowrap z-30">
                             Pro
                           </div>
                         )}
@@ -251,7 +251,7 @@ export function EditorLayout({
                             {userInfo.expires_at &&
                             isSubscriptionActive(userInfo.expires_at) ? (
                               <>
-                                <div className="text-purple-600 font-medium">
+                                <div className="text-green-600 font-medium">
                                   Pro Plan Active
                                 </div>
                                 <div>
