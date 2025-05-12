@@ -194,7 +194,7 @@ export function EditorLayout({
                 </span>
               </div>
 
-              {isLoading ? (
+              {/* {isLoading ? (
                 <div className="w-8 h-8 flex items-center justify-center">
                   <Loader2 className="w-4 h-4 text-gray-400 animate-spin" />
                 </div>
@@ -206,7 +206,7 @@ export function EditorLayout({
                   >
                     <div className="relative">
                       {" "}
-                      {/* Kept for badge space */}
+                      
                       {userInfo?.expires_at &&
                         isSubscriptionActive(userInfo.expires_at) && (
                           <div className="absolute -top-1.5 left-1/2 -translate-x-1/2 bg-green-600 text-white text-[10px] px-1.5 py-0.5 rounded-full font-medium leading-none whitespace-nowrap z-30">
@@ -282,7 +282,7 @@ export function EditorLayout({
                     Login
                   </span>
                 </button>
-              )}
+              )} */}
             </div>
           </div>
         </div>

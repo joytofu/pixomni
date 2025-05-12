@@ -59,9 +59,8 @@ export default function RootLayout({
             {children}
             <Toaster />
           </ThemeProvider>
-          <Analytics />
         </PricingProvider>
-        <GoogleAnalytics gaId="G-LWYW0Q03ZL" />
+        <GoogleAnalytics gaId="G-5Z6STD516W" />
       </body>
     </html>
   );

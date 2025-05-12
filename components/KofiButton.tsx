@@ -5,7 +5,7 @@ import { Coffee } from "lucide-react";
 export function KofiButton() {
   return (
     <a
-      href="https://ko-fi.com/I2I819Y9PU"
+      href="https://donate.stripe.com/8wM2b1b1feIE7ZKeUU"
       target="_blank"
       rel="noopener noreferrer"
       className="hidden sm:flex flex-col items-center px-1 sm:px-2"
