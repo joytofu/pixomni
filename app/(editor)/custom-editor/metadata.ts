@@ -1,23 +1,20 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Pixomni: Free Background Remover & Online Image Editor',
-  description: 'Instantly remove backgrounds for free with Pixomni! A powerful online image editor to add text, enhance photos, clone objects & much more. Try it now!',
+  title: 'Pixomni: Best Way to Remove Background From Image & Free Online Img Editor',
+  description: 'Effortlessly remove backgrounds, perfect photos, & change image background color with our free online editor. The best remove.bg alternative & image duplicator!',
   keywords: [
-    'text behind image',
-    'image editor',
-    'photo editor',
-    'shape behind image',
-    'glow effect',
-    'YouTube thumbnail maker',
-    'social media graphics',
-    'image overlay',
-    'photo text editor',
-    'online image editor'
+    'best way to remove background from image',
+    'image duplicator',
+    'img editor pc',
+    'remove.bg alternative',
+    'outline image',
+    'outline an image',
+    
   ].join(', '),
   openGraph: {
-    title: 'Pixomni: Free Background Remover & Online Image Editor',
-    description: 'Instantly remove backgrounds for free with Pixomni! A powerful online image editor to add text, enhance photos, clone objects & much more. Try it now!',
+    title: 'Pixomni: Best Way to Remove Background From Image & Free Online Img Editor',
+    description: 'Effortlessly remove backgrounds, perfect photos, & change image background color with our free online editor. The best remove.bg alternative & image duplicator!',
     url: 'https://pixomni.com/custom-editor',
     siteName: 'Pixomni',
     images: [
@@ -32,8 +29,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Pixomni - Free Background Remover & Online Image Editor',
-    description: 'Looking for a reliable free background remover? Pixomni delivers! Remove backgrounds easily and then explore our online image editor to add text, logos, and much more.',
+    title: 'Pixomni: Best Way to Remove Background From Image & Free Online Img Editor',
+    description: 'Effortlessly remove backgrounds, perfect photos, & change image background color with our free online editor. The best remove.bg alternative & image duplicator!',
     images: ['https://pixomni.com/og-image.png'],
   },
   robots: {

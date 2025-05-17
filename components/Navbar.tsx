@@ -140,10 +140,10 @@ export function Navbar() {
       description: "Blend and overlay images with AI",
     },
     {
-      href: "/clone-image",
+      href: "/image-duplicator",
       icon: ImageDown,
-      title: "Clone Image",
-      description: "Effortlessly clone and position objects in your image",
+      title: "Image Duplicator",
+      description: "Effortlessly duplicate and position objects in your image",
     },
     {
       href: "/remove-background",

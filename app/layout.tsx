@@ -9,20 +9,20 @@ import { PricingProvider } from '@/contexts/PricingContext';
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Pixomni: Free Background Remover & Online Image Editor',
-  description: 'Instantly remove backgrounds for free with Pixomni! A powerful online image editor to add text, enhance photos, clone objects & much more. Try it now!',
+  title: 'Pixomni: Best Way to Remove Background From Image & Free Online Img Editor',
+  description: 'Effortlessly remove backgrounds, perfect photos, & change image background color with our free online editor. The best remove.bg alternative & image duplicator!',
   metadataBase: new URL('https://pixomni.com'),
   openGraph: {
     type: 'website',
     url: 'https://pixomni.com',
-    title: 'Pixomni: Free Background Remover & Online Image Editor',
-    description: 'Instantly remove backgrounds for free with Pixomni! A powerful online image editor to add text, enhance photos, clone objects & much more. Try Pixomni now!',
+    title: 'Pixomni: Best Way to Remove Background From Image & Free Online Img Editor',
+    description: 'Effortlessly remove backgrounds, perfect photos, & change image background color with our free online editor. The best remove.bg alternative & image duplicator!',
     images: ['/og-image.png'],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Pixomni | Free Background Remover & Online Image Editor',
-    description: 'Instantly remove backgrounds for free with Pixomni! A powerful online image editor to add text, enhance photos, clone objects & much more. Try it now!',
+    description: 'Effortlessly remove backgrounds, perfect photos, & change image background color with our free online editor. The best remove.bg alternative & image duplicator!',
     creator: '@kcswag077',
     images: ['/og-image.png'],
     site: '',

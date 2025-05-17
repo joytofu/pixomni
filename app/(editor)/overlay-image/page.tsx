@@ -5,8 +5,8 @@ import { TransformationPage } from '@/components/TransformationPage';
 export default function OverlayImagePage() {
   return (
     <TransformationPage
-      title="Image Overlay Transform: Create Striking Images in Minutes"
-      description="Unlock your creativity with Image Overlay Transform. Seamlessly add beautiful overlays, compelling text, and dynamic effects to your photos and images. Design professional-looking visuals effortlessly with our user-friendly online editor. Start transforming your pictures today and make your content stand out!"
+      title="How to Overlay Images & Text Online Free – Fast & Easy"
+      description="Want to overlay 2 images or learn how to overlay images with text? Our free online tool makes it simple. Add effects and create professional designs in minutes, a great alternative to trying to figure out how to overlay 2 images in Preview for online use."
       beforeImage="/personbefore.jpg"
       afterImage="/personafter.jpg"
       beforeAlt="Original image without overlay"

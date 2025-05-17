@@ -25,7 +25,7 @@ interface EditorLayoutProps {
     | "shapes-only"
     | "remove-background-only"
     | "change-background-only"
-    | "clone-image-only"
+    | "image-duplicator-only"
     | "overlay-only"; // Add overlay-only
 }
 

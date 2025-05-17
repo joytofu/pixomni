@@ -33,7 +33,7 @@ type TabType =
   | "shapes"
   | "remove-background"
   | "change-background"
-  | "clone-image"
+  | "image-duplicator"
   | "images"
   | "draw"
   | "cutout"
@@ -48,7 +48,7 @@ interface SideNavigationProps {
     | "shapes-only"
     | "remove-background-only"
     | "change-background-only"
-    | "clone-image-only"
+    | "image-duplicator-only"
     | "draw-only"
     | "overlay-only";
 }
@@ -68,8 +68,8 @@ export function SideNavigation({
         return "remove-background";
       case "change-background-only":
         return "change-background";
-      case "clone-image-only":
-        return "clone-image";
+      case "image-duplicator-only":
+        return "image-duplicator";
       case "draw-only":
         return "draw";
       case "overlay-only":
@@ -108,7 +108,7 @@ export function SideNavigation({
           return "Please upload an image first to remove the background";
         case "change-background":
           return "Please upload an image first to change the background";
-        case "clone-image":
+        case "image-duplicator":
           return "Please upload an image first to use the clone feature";
         case "draw":
           return "Please upload an image first to use the draw feature";
@@ -125,7 +125,7 @@ export function SideNavigation({
     mode === "full" || mode === "remove-background-only";
   const showChangeBackground =
     mode === "full" || mode === "change-background-only";
-  const showCloneImage = mode === "full" || mode === "clone-image-only";
+  const showCloneImage = mode === "full" || mode === "image-duplicator-only";
   const showSmartOverlay = mode === "full" || mode === "overlay-only"; // Add this line - only show in full mode
   const showDrawButton = mode === "full" || mode === "draw-only"; // Add this line
 
@@ -140,8 +140,8 @@ export function SideNavigation({
       setActiveTab("remove-background");
     } else if (mode === "change-background-only") {
       setActiveTab("change-background");
-    } else if (mode === "clone-image-only") {
-      setActiveTab("clone-image");
+    } else if (mode === "image-duplicator-only") {
+      setActiveTab("image-duplicator");
     } else if (mode === "draw-only") {
       setActiveTab("draw");
     }
@@ -211,16 +211,16 @@ export function SideNavigation({
   const cloneImageButton =
     showCloneImage &&
     renderTabButton(
-      "clone-image" as TabType,
+      "image-duplicator" as TabType,
       <Copy className={mobile ? "w-4 h-4" : "w-5 h-5"} />,
-      "Clone Image"
+      "Duplicate Image"
     );
 
   // Add cutout button
   const cutoutButton = renderTabButton(
     "cutout",
     <Box className={mobile ? "w-4 h-4" : "w-5 h-5"} />,
-    "Outline"
+    "Outline Image"
   );
 
   // Add tuneImage button
@@ -327,7 +327,7 @@ export function SideNavigation({
                 <h3 className="text-lg font-semibold truncate">
                   {activeTab === "remove-background" ? "Remove Background" : ""}
                   {activeTab === "change-background" ? "Change Background" : ""}
-                  {activeTab === "clone-image" ? "Clone Image" : ""}
+                  {activeTab === "image-duplicator" ? "Clone Image" : ""}
                   {activeTab === "images" ? "Smart Overlay" : ""}
                   {activeTab === "cutout" ? "Object Outline" : ""}
                   {activeTab === "tune-image" ? "Tune Image" : ""}
@@ -375,7 +375,7 @@ export function SideNavigation({
                     {activeTab === "change-background" && (
                       <ChangeBackgroundEditor />
                     )}
-                    {activeTab === "clone-image" && <CloneImageEditor />}
+                    {activeTab === "image-duplicator" && <CloneImageEditor />}
                     {activeTab === "images" && <ImageEditor />}
                     {activeTab === "draw" && <DrawingEditor />}
                     {activeTab === "cutout" && <CutoutEditor />}
@@ -429,14 +429,14 @@ export function SideNavigation({
                     ? "Smart overlay"
                     : activeTab === "change-background"
                     ? "Change Background"
-                    : activeTab === "clone-image"
-                    ? "Clone Image"
+                    : activeTab === "image-duplicator"
+                    ? "Duplicate Image"
                     : activeTab === "text"
                     ? "Add Text"
                     : activeTab === "draw"
                     ? "Draw"
                     : activeTab === "cutout"
-                    ? "Outline"
+                    ? "Outline Image"
                     : activeTab === "tune-image"
                     ? "Tune Image"
                     : "Add Shapes"}
@@ -458,7 +458,7 @@ export function SideNavigation({
                   {activeTab === "change-background" && (
                     <ChangeBackgroundEditor />
                   )}
-                  {activeTab === "clone-image" && <CloneImageEditor />}
+                  {activeTab === "image-duplicator" && <CloneImageEditor />}
                   {activeTab === "images" && <ImageEditor />}
                   {activeTab === "draw" && <DrawingEditor />}
                   {activeTab === "cutout" && <CutoutEditor />}

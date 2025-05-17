@@ -50,7 +50,7 @@ export default function FAQ() {
     },
     {
       question: "How can I clone or duplicate parts of an image with Pixomni?",
-      answer: <span>Cloning parts of an image, whether to remove unwanted elements or duplicate objects, is straightforward with Pixomni. Our <Link href="/clone-image" className="text-blue-400 hover:underline" target='_blank'>Clone Image</Link> tool helps you achieve seamless edits. Just visit the feature to see how.</span>
+      answer: <span>Cloning parts of an image, whether to remove unwanted elements or duplicate objects, is straightforward with Pixomni. Our <Link href="/image-duplicator" className="text-blue-400 hover:underline" target='_blank'>Clone Image</Link> tool helps you achieve seamless edits. Just visit the feature to see how.</span>
     },
     {
       question: "Can I fully customize image backgrounds using Pixomni?",

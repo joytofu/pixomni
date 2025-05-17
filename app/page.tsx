@@ -40,7 +40,7 @@ const tools = [
   { Icon: Type, name: "Add Text Behind" },
   { Icon: Sticker, name: "Add Logo Behind" },
   { Icon: Shapes, name: "Add Shapes" },
-  { Icon: Copy, name: "Image Clone" },
+  { Icon: Copy, name: "Image Duplicator" },
   { Icon: Wand, name: "AI Detection" },
   { Icon: Filter, name: "Apply Effects" },
   { Icon: Download, name: "Export HD" },
@@ -182,13 +182,13 @@ export default function Home() {
                 className="text-center mb-8"
               >
                 <h1 className="text-4xl md:text-7xl font-bold mb-6 text-gray-900 dark:text-white">
-                The All-in-One Free Online Image Editor & {" "}
+                The Best Way to Remove Background From Image & All-in-One Online Editor & {" "}
                   <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-800 to-green-900 dark:from-green-500 dark:to-green-600">
-                  Background Remover
+                  All-in-One Online Editor
                   </span>
                 </h1>
                 <p className="text-xl text-gray-700 dark:text-gray-400 max-w-3xl mx-auto">
-                Effortlessly remove backgrounds, perfect your photos, and magically integrate text or logos behind objects. All the power, none of the hassle.
+                Your free remove.bg alternative! Change image background color, outline images, duplicate photos, and more with our easy online img editor for PC & mobile.
                 </p>
               </motion.div>
 

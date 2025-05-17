@@ -27,7 +27,7 @@ interface CanvasProps {
     | "shapes-only"
     | "remove-background-only"
     | "change-background-only"
-    | "clone-image-only"
+    | "image-duplicator-only"
     | "overlay-only"; // Add overlay-only
 }
 
@@ -157,6 +157,7 @@ export function Canvas({ shouldAutoUpload, mode = "full" }: CanvasProps) {
 
       const validTypes = [
         "image/jpeg",
+        "image/jpg",
         "image/png",
         "image/webp",
         "image.webp",

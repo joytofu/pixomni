@@ -52,7 +52,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1,
     },
     {
-      url: `${baseUrl}/clone-image`,
+      url: `${baseUrl}/image-duplicator`,
       lastModified: staticDate,
       changeFrequency: 'daily' as ChangeFrequency,
       priority: 1,
