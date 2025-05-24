@@ -182,7 +182,7 @@ export default function Home() {
                 className="text-center mb-8"
               >
                 <h1 className="text-4xl md:text-7xl font-bold mb-6 text-gray-900 dark:text-white">
-                The Best Way to Remove Background From Image & All-in-One Online Editor & {" "}
+                The Best Way to Remove Background From Image & {" "}
                   <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-800 to-green-900 dark:from-green-500 dark:to-green-600">
                   All-in-One Online Editor
                   </span>
