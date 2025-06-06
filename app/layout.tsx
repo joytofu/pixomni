@@ -47,6 +47,8 @@ export default function RootLayout({
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
         />
         <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4334089166433119"
+     crossOrigin="anonymous"></script>
       </head>
       <body className="min-h-screen bg-white dark:bg-[#0A0A0A] transition-colors">
         <PricingProvider>
